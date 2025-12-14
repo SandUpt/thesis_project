@@ -1,0 +1,43 @@
+{
+  "verification_date": "2025-08-11T23:30:00.286865",
+  "total_samples_checked": 736,
+  "total_contamination": 0,
+  "contamination_rate": 0.0,
+  "verification_status": "PASSED",
+  "contamination_by_dataset": {
+    "train_1000": 0,
+    "train_5000": 0,
+    "train_10000": 0,
+    "train_20000": 0,
+    "train_50000": 0,
+    "train_100000": 0,
+    "train_150000": 0,
+    "train_200000": 0,
+    "test_500": 0,
+    "test_1000": 0,
+    "test_2000": 0,
+    "test_5000": 0,
+    "test_10000": 0,
+    "test_500_clean": 0,
+    "test_2000_clean": 0,
+    "error_dataset": 0
+  },
+  "datasets_checked": [
+    "train_1000",
+    "train_5000",
+    "train_10000",
+    "train_20000",
+    "train_50000",
+    "train_100000",
+    "train_150000",
+    "train_200000",
+    "test_500",
+    "test_1000",
+    "test_2000",
+    "test_5000",
+    "test_10000",
+    "test_500_clean",
+    "test_2000_clean",
+    "error_dataset"
+  ]
+}

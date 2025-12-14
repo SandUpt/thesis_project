@@ -1,0 +1,922 @@
+prompt	completion	data_type
+Diese Unbeständigkeit hat negative Auswirkungen auf die Verwirklichung der dringend notwendigen institutionellen Reformen, die aus europapolitischer Sicht für Albanien unerlässlich sind.	"Initial translation: This instability is having an adverse effect on the process of far-reaching institutional reform needed if it is to join the EU.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: This instability is having an adverse effect on the process of far-reaching institutional reform needed if it is to join the EU."	clean_translation
+Ich kann mir keine Richtlinie vorstellen, die die Notwendigkeit der Zusammenarbeit zwischen den Gesetzgebern auf europäischer, nationaler und kommunaler Ebene besser veranschaulichen könnte.	"Initial translation: I cannot think of a directive that better illustrates the partnerships that must exist between legislators at the European, national and local levels.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I cannot think of a directive that better illustrates the partnerships that must exist between legislators at the European, national and local levels."	clean_translation
+An diesem Ort blieb er 49 Tage nach einem zweiten Haftbefehl, nachdem der Beamte des Ministerio Público die Straftaten wegen Bestechung und organisierten Verbrechens verworfen hatte.	"Initial translation: He was there 49 days after a second arrest warrant was issued by the Public Prosecutor's Office, after the Public Prosecutor had rejected the charges of bribery and organised crime.
+
+Analysis: The German ""nach einem zweiten Haftbefehl"" should be ""following the pronunciation of a second restriction order"" not ""after a second arrest warrant"" - the target uses different legal terminology. The phrase ""nachdem der Beamte des Ministerio Público die Straftaten...verworfen hatte"" should be ""after the prosecutor dismissed the crimes"" not ""after the Public Prosecutor had rejected the charges"" - while similar, the target uses ""dismissed"" and ""crimes"" rather than ""rejected"" and ""charges
+
+Corrected translation: In this place he remained for 49 days following the pronunciation of a second restriction order after the prosecutor dismissed the crimes of bribery and organized crime."	error_correction
+Obwohl der Bücherberg unter einem Glassturz steht, scheint die Sonne selbst an sonnigen Tagen nur kurz ins Innere.	"Initial translation: Although the Book Mountain is on the verge of collapse, the sun itself seems to shine only for a short time even on sunny days.
+
+Analysis: The German ""unter einem Glassturz steht"" should be ""has a glass cover"" not ""is on the verge of collapse"" - completely opposite meaning from protection to destruction. The word ""Glassturz"" is a glass cover/dome, not structural failure. The phrase ""scheint die Sonne selbst an sonnigen Tagen nur kurz ins Innere"" should be ""the sun only shines only briefly into the interior, even on sunny days"" not ""the sun itself seems to shine only for a short time even on sunny days"" - missing the ""into the interior"" location and wrong verb emphasis. The model completely misunderstood the structural situation, turning protective covering into imminent collapse
+
+Corrected translation: Although the Bücherberg has a glass cover, the sun only shines only briefly into the interior, even on sunny days."	error_correction
+"Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne""."	"Initial translation: Small plots of land are no longer farmed there - but are used by the 'Land in the Sun' gardening scheme.
+
+Analysis: The German ""Land in Sonne"" should be preserved as ""Land in Sonne"" not translated to ""Land in the Sun"" - this is a proper name that should be kept in the original. The phrase ""Kleingärtner der Anlage"" should be ""allotment holders of the...facility"" not ""gardening scheme"" - the target uses more specific terminology. The word ""belegen"" should be ""occupy"" not ""farmed"" - this is about occupation/usage, not farming
+
+Corrected translation: Today, it is no longer farmers who occupy small parcels there – rather, it is allotment holders of the ""Land in Sonne"" facility."	error_correction
+Aus diesem Grund bin ich dafür, dass auch öffentlich-private Partnerschaften Strukturfondsmittel in Anspruch nehmen können.	"Initial translation: This is why I support the utilisation of structural funds in PPP constructions, too.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: This is why I support the utilisation of structural funds in PPP constructions, too."	clean_translation
+Diese Vorschriften wurden in großem Umfang vom damaligen irischen Landwirtschaftsminister, Herrn Yates, vorgeschlagen und werden in Irland bereits ohne Einschränkung angewendet.	"Initial translation: These rules had been proposed in large measure by the then Irish Minister of Agriculture, Mr Yates, and have been fully implemented in Ireland.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: These rules had been proposed in large measure by the then Irish Minister of Agriculture, Mr Yates, and have been fully implemented in Ireland."	clean_translation
+Es wurde nicht erreicht, aber die Verringerung der Anzahl der Todesopfer war erheblich.	"Initial translation: It was not achieved but the reduction in the number of deaths was substantial.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: It was not achieved but the reduction in the number of deaths was substantial."	clean_translation
+Es ist schon fast ein rekurrentes Thema, auf das zwei Mitglieder dieser alt eingesessenen Kaste, die sich im Aufzug treffen, zurückgreifen können.	"Initial translation: It is almost a recurring theme that two members of this old established caste can meet in the lift.
+
+Analysis: The German ""auf das...zurückgreifen können"" should be ""to make use of when"" not just ""that...can meet"" - this is about utilizing a conversational topic, not just meeting. The phrase ""die sich im Aufzug treffen"" should be ""recognize themselves in an elevator"" not ""meet in the lift"" - this is about recognition/identification, not arrangement to meet. The word ""Kaste"" should be ""ancient lineage of elected persons"" not just ""caste"" - the target is more specific about the political context. The model simplified the complex interaction to a basic meeting
+
+Corrected translation: It's almost a recurrent theme to make use of when two members of this ancient lineage of elected persons recognize themselves in an elevator."	error_correction
+Dazwischen gab es immer wieder längere Anstiege, für die lange Trials belohnten.	"Initial translation: There were long periods of time when the market was rising, and long trials were rewarded.
+
+Analysis: The German ""längere Anstiege"" should be ""long uphill climbs"" not ""long periods of time when the market was rising"" - this is a major semantic error where the model confused hiking/climbing context with financial markets. The phrase ""für die lange Trials belohnten"" should be ""for which long trials were the reward"" not ""and long trials were rewarded"" - this is a semantic error where the model changed the causal relationship. The German is talking about hiking/climbing challenges, not financial markets. The model completely misunderstood the context
+
+Corrected translation: In between, there were time and again long uphill climbs, for which long trials were the reward."	error_correction
+Danach gibt es in Kaiseringen im Schulhaus Kaffee, Kuchen, kühle Getränke, Saitenwürste und Käsewecken.	"Initial translation: Then there is coffee, cake, cold drinks, sausages and cheese in Kaiseringen in the school building.
+
+Analysis: The German ""Saitenwürste"" should be ""Viennese sausages"" not just ""sausages"" - this is a specific type of sausage. The phrase ""Käsewecken"" should be ""cheese rolls"" not just ""cheese"" - the bread component is missing. The phrase ""Danach gibt es"" should be ""Afterwards there will be"" not ""Then there is"" - different temporal structure and future tense. The word order should place location information differently for natural English flow
+
+Corrected translation: Afterwards there will be coffee, cakes, cold drinks, Viennese sausages and cheese rolls."	error_correction
+Das Betriebssystem erfüllt die Funktion, die mit der Funktion seiner Ehefrau oder seines Ehemannes verglichen werden kann, wenn es darum geht, seiner Schwiegermutter etwas mitzuteilen.	"Initial translation: The operating system is like the wife or husband of a person who is trying to tell his mother-in-law something.
+
+Analysis: The German structure should be ""It performs the same function of your wife or your husband when you have something to say to your mother-in-law"" - the model added unnecessary words and changed the direct comparison. The phrase ""die mit der Funktion seiner Ehefrau oder seines Ehemannes verglichen werden kann"" should emphasize the functional comparison, not create a metaphorical likeness. The model made the comparison more awkward and less direct than the original meaning
+
+Corrected translation: It performs the same function of your wife or your husband when you have something to say to your mother-in-law."	error_correction
+Wie Herr Cunha in Erwägung C seines Berichts feststellt, ist die Erreichung der Ziele der MAPs eine notwendige Voraussetzung dafür, daß eine nachhaltige Entwicklung des Sektors gewährleistet werden kann.	"Initial translation: As Mr Cunha stated in recital C of his report, achievement of the MGP objectives is necessary to ensure sustainable development in this sector.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: As Mr Cunha stated in recital C of his report, achievement of the MGP objectives is necessary to ensure sustainable development in this sector."	clean_translation
+"Die Studenten hätten ""Anspruch, Spielräume zu erhalten, die Eigeninitiative ermöglichen und fördern""."	"Initial translation: The students would have 'claims to have room to manoeuvre and to be able to take initiative'.
+
+Analysis: The German ""hätten Anspruch"" should be ""are entitled"" not ""would have claims"" - this is a grammatical error where the model changed the modal structure. The phrase ""Spielräume zu erhalten"" should be ""to be granted leeway"" not ""to have room to manoeuvre"" - this is a lexical error where the model chose a more complex phrase. The German ""die Eigeninitiative ermöglichen und fördern"" should be ""allowing and promoting initiative"" not ""to be able to take initiative"" - the model missed that the leeway itself should enable initiative, not that students should be able to take it
+
+Corrected translation: The students are ""entitled to be granted leeway allowing and promoting initiative""."	error_correction
+Vor allem aber möchte ich auf den Beschluss der Kommission, die Aussetzung des Stabilitätspaktes durch den ECOFIN-Rat gerichtlich anzufechten, eingehen.	"Initial translation: The main thing I want to comment on is the Commission's decision today to take the Ecofin Council to court over its suspension of the Stability Pact.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The main thing I want to comment on is the Commission's decision today to take the Ecofin Council to court over its suspension of the Stability Pact."	clean_translation
+Ich würde sogar soweit gehen zu sagen, dass diese ganze Ansammlung von Abkommen und vorläufigen Lizenzen, die mittels eines furchtbar schwerfälligen Apparats umgesetzt werden, in ihrer Absurdität ans Kafkaeske grenzt.	"Initial translation: I would even go so far as to say that this whole plethora of agreements and provisional licences, implemented by means of a terribly cumbersome mechanism, verges on the Kafkaesque in its absurdity.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I would even go so far as to say that this whole plethora of agreements and provisional licences, implemented by means of a terribly cumbersome mechanism, verges on the Kafkaesque in its absurdity."	clean_translation
+Wir brauchen eine klare Strategie für das 21. Jahrhundert, mit dem Ziel, den Anteil erneuerbarer Energiequellen an unserer Energiepolitik spürbar zu erhöhen.	"Initial translation: We need a clear strategy for the 21st century aimed at significantly increasing the share of renewable energy sources in our overall energy policy.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We need a clear strategy for the 21st century aimed at significantly increasing the share of renewable energy sources in our overall energy policy."	clean_translation
+Es ist uns gelungen, diese 350 Änderungsanträge auf einen doch relativ konsistenten Text zu reduzieren, der dann eine sehr große Mehrheit im Ausschuss gefunden hat, nämlich 27 gegen zwei Stimmen.	"Initial translation: We managed to reduce those 350 draft amendments to a relatively consistent text, which was then adopted by a very large majority in committee, i.e. 27 in favour and 2 against.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We managed to reduce those 350 draft amendments to a relatively consistent text, which was then adopted by a very large majority in committee, i.e. 27 in favour and 2 against."	clean_translation
+Die Reaktion der örtlichen Gemeinde, von jungen Leuten, Landwirten und Unternehmern, die herauskamen, um zusammen mit der Polizei und den Katastrophenschutzkräften zu helfen, ermutigt mich.	"Initial translation: I am heartened by the response of the local community - young people, farmers, business people - who came out to help, along with the police and the civil defence forces.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I am heartened by the response of the local community - young people, farmers, business people - who came out to help, along with the police and the civil defence forces."	clean_translation
+Finnland könnte das Treffen aus Gefälligkeit organisieren, zumal die Frage der Energielieferungen aus Russland dort sehr relevant ist, worauf zahlreiche Mitgliedstaaten angespielt haben.	"Initial translation: Finland could organise the meeting as a favour, especially since the question of Russian energy is very relevant there, something that many Members have alluded to.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Finland could organise the meeting as a favour, especially since the question of Russian energy is very relevant there, something that many Members have alluded to."	clean_translation
+Wieder umzuschalten auf die Gegenwart ist ein böses Erwachen, als ob man aus einem Traum gerissen wird.	"Initial translation: To wake up again to the present is a bad dream, as if you have been dragged out of a dream.
+
+Analysis: The German ""umzuschalten"" should be ""cutting to"" not ""to wake up again to"" - this is about switching/cutting scenes (like film editing), not waking up. The phrase ""böses Erwachen"" should be ""rude awakening"" not ""bad dream"" - these are opposite concepts (awakening vs staying in dream). The phrase ""als ob man aus einem Traum gerissen wird"" should be ""like snapping out of a dream"" not ""as if you have been dragged out of a dream"" - the target emphasizes sudden breaking
+
+Corrected translation: Cutting to the present is a rude awakening, like snapping out of a dream."	error_correction
+Neben der Einstellung der Steife der Federleisten werden auch spezielle flexible Schultermodule geboten.	"Initial translation: In addition to the stiffening of the spring, special flexible shoulder modules are also offered.
+
+Analysis: The German ""Federleisten"" was translated as ""spring"" when it should be ""slats"" in this bedding/furniture context. ""Einstellung der Steife"" means ""adjusting the stiffness"" not ""stiffening,"" and the model missed that this is about bed slat adjustment. The phrase ""shoulder cradle"" was translated literally as ""shoulder modules"" instead of understanding it as the specific product name ""shoulder cradle
+
+Corrected translation: In addition to adjusting the stiffness of slats you can also enjoy the so-called shoulder cradle."	error_correction
+Denn blöder als bislang geht es nicht: Sommerferien, Hitze und Landtagswahlkampf - das beißt sich.	"Initial translation: Because it is not going to get any worse than this: summer holidays, heat and state election campaigns - it is a tough time.
+
+Analysis: The German ""blöder als bislang geht es nicht"" was mistranslated as ""it is not going to get any worse than this"" when it should be ""The way things had been going was simply ridiculous"", completely changing the meaning from criticism of past ridiculousness to prediction about future difficulty. The phrase ""das beißt sich"" was translated as ""it is a tough time"" instead of ""they clash with one another"", losing the specific meaning of conflicting elements. The word ""Landtagswahlkampf"" should be ""state parliament elections"" not ""state election campaigns"" to be more precise
+
+Corrected translation: The way things had been going was simply ridiculous: summer holidays, heat and state parliament elections - they clash with one another."	error_correction
+Wir müssen in den Mitgliedsländern gemeinsam ein hohes Schutzniveau schaffen.	"Initial translation: Together we must create a high level of protection in the Member States.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Together we must create a high level of protection in the Member States."	clean_translation
+Wir dürfen nicht vergessen, dass der Handel im Wesentlichen eine gute Sache ist.	"Initial translation: We must remember that trade is essentially a good thing.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We must remember that trade is essentially a good thing."	clean_translation
+Statt sich mit den Argumenten und Forderungen der Studierenden auseinanderzusetzen, habe man geräumt.	"Initial translation: Instead of dealing with the arguments and demands of the students, they have been evicted.
+
+Analysis: The German ""sich mit den Argumenten und Forderungen der Studierenden auseinanderzusetzen"" should be ""taking the students' arguments and students seriously"" not ""dealing with the arguments and demands of the students"" - this is a grammatical error where the model changed the structure. The phrase ""habe man geräumt"" should be ""they organised this vacation"" not ""they have been evicted"" - this is a semantic error where the model confused who was doing the evicting. The German construction indicates that instead of engaging with students, the authorities chose to clear/evacuate the space
+
+Corrected translation: Instead of taking the students' arguments and students seriously, they organised this vacation."	error_correction
+Das bedeutet, den Bürgern nur falsche Hoffnungen zu machen, die dann doch nicht eingelöst werden können.	"Initial translation: All this does is to give false hopes to the general public which it will then be impossible to fulfil.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: All this does is to give false hopes to the general public which it will then be impossible to fulfil."	clean_translation
+Frauen haben heute Besseres verdient, da wir immerhin Europa vor dem demografischen Kollaps bewahren wollen, was aber nicht zulasten der Frauen erfolgen darf.	"Initial translation: Women deserve more, today, because we do want, after all, to save Europe from demographic collapse, but this must not be done at the expense of women.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Women deserve more, today, because we do want, after all, to save Europe from demographic collapse, but this must not be done at the expense of women."	clean_translation
+Meine Mutter und meine Schwester sahen das auch und machten sich vor Lachen fast in die Hose, aber ich musste in die Notaufnahme.	"Initial translation: My mother and sister saw it too and they were laughing so much they nearly fell off their chairs, but I had to go to the emergency department.
+
+Analysis: The German idiom ""machten sich...fast in die Hose"" should be ""started wetting themselves"" not ""nearly fell off their chairs"" - this is about uncontrolled laughter leading to potential incontinence, not falling. The phrase ""musste in die Notaufnahme"" should be ""had to be rushed to A & E"" not just ""had to go to the emergency department"" - the reference implies urgency with ""rushed"" and uses British terminology ""A & E
+
+Corrected translation: Then my mum and sister came to the realisation and they started wetting themselves, but I had to be rushed to A & E."	error_correction
+Beide Mannschaften kombinierten langwierig und so wurde vor allem um die Mittellinie gespielt.	"Initial translation: Both teams played a long ball game and the midfield was the area where most of the action was.
+
+Analysis: The German ""kombinierten langwierig"" was mistranslated as ""played a long ball game"" when it should be ""found it difficult to join in the combination"" - this misses the difficulty aspect entirely. The phrase ""vor allem um die Mittellinie gespielt"" should be ""the game remained around the mid-field line most of the time"" not ""the midfield was the area where most of the action was"" - the original implies stagnation, not action. The model completely reversed the intended meaning from teams struggling to combine to teams actively playing
+
+Corrected translation: Both teams found it difficult to join in the combination; the game remained around the mid-field line most of the time."	error_correction
+Ich begrüße die gute Arbeit der Berichterstatter und habe dem Bericht deshalb auch zugestimmt.	"Initial translation: (DE) I welcome the good work done by the rapporteurs and I therefore also voted in favour of the report.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: (DE) I welcome the good work done by the rapporteurs and I therefore also voted in favour of the report."	clean_translation
+Europa ist wie ein Leuchtfeuer und hat viele Länder, nicht nur im Osten, sondern auch im Westen und Süden Europas, zu Freiheit und Demokratie geleitet.	"Initial translation: Europe has acted as a beacon that has guided many countries, not just in the East, but also in the West and the South of Europe, towards freedom and democracy.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Europe has acted as a beacon that has guided many countries, not just in the East, but also in the West and the South of Europe, towards freedom and democracy."	clean_translation
+Mit den Einzelheiten der Verhandlungen zum Amtsantritt von Mas beschäftigen sich vonseiten der PPC Jordi Cornet und Dolors Montserrat.	"Initial translation: The details of the negotiations for the Mas Presidency are being dealt with by Jordi Cornet and Dolors Montserrat.
+
+Analysis: The German ""zum Amtsantritt von Mas"" should be ""on the investiture of which Mas will take care"" not ""for the Mas Presidency
+
+Corrected translation: Of the details of the negotiation on the investiture of which Mas will take care, on behalf of the PPC, Jordi Cornet and Dolors Montserrat."	error_correction
+Die Masse macht's: Alle zwei Jahre zeigen die Autobauer auf der IAA ihre Neuheiten.	"Initial translation: The masses make it: every two years, the car manufacturers show off their new models at the IAA.
+
+Analysis: The German ""Die Masse macht's"" should be ""The chassis makes the difference"" not ""The masses make it"" - this is a complete misunderstanding where ""Masse"" refers to automotive chassis/body mass, not crowds of people. The phrase ""zeigen...ihre Neuheiten"" should be ""present their new models"" not ""show off their new models"" - ""present"" is more formal and appropriate for trade shows. The model fundamentally misinterpreted the automotive technical context as being about crowd appeal rather than engineering
+
+Corrected translation: The chassis makes the difference: every two years car manufacturers present their new models at the IAA"	error_correction
+Wir im dünn besiedelten Finnland kennen diese Benachteiligungen gut, die auch in den wichtigen Beitrittsverträgen für Finnland, Schweden und Österreich konstatiert wurden.	"Initial translation: We in sparsely populated Finland are familiar with such disadvantages, and these were also noted in the important accession treaty for Finland, Sweden and Austria.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We in sparsely populated Finland are familiar with such disadvantages, and these were also noted in the important accession treaty for Finland, Sweden and Austria."	clean_translation
+Ich denke, dass diese Maßnahmen von der Kommission und diese Vorschläge erst der Anfang der Entwicklung einer Energiesicherheitspolitik sind.	"Initial translation: I think that these measures from the Commission and these proposals are just the start of devising an energy security policy.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I think that these measures from the Commission and these proposals are just the start of devising an energy security policy."	clean_translation
+Mit der Reform des Organgesetzes über den Kongress werde das Zweiparteiensystem eingeführt, beklagen sie.	"Initial translation: They complain that the reform of the Organic Law on the Congress is introducing a two-party system.
+
+Analysis: The German ""beklagen sie"" should be ""they say"" not ""they complain"" - the tone is more neutral reporting than complaining. The phrase ""werde das Zweiparteiensystem eingeführt"" should be ""a 'two-party system' emerges"" not ""is introducing"" - the quotation marks around two-party system are important. The preposition should be ""of Congress"" not ""on the Congress
+
+Corrected translation: With reforms to the Organic law of Congress, a ""two-party system"" emerges, they say."	error_correction
+Aber er ist angenommen worden, das Ergebnis ist völlig eindeutig.	"Initial translation: But it was adopted - the result was quite clear.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: But it was adopted - the result was quite clear."	clean_translation
+Ich bin überzeugt, dass wir etwas Bedeutendes umsetzen, und ich hoffe, dass dieses Grünbuch, das wir heute zu diskutieren beginnen und über das wir später abstimmen werden, nicht so wie das Grünbuch von 2002 enden wird.	"Initial translation: I believe that what we are implementing is important, and I hope that this Green Paper, which we are beginning to discuss today and which we will vote on later, does not end up as it did in 2002.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I believe that what we are implementing is important, and I hope that this Green Paper, which we are beginning to discuss today and which we will vote on later, does not end up as it did in 2002."	clean_translation
+Der erste Reaktor der Organisation für die Entwicklung der Energiewirtschaft auf der koreanischen Halbinsel (KEDO), der bis zum Ablauf des Jahres ans Netz gehen sollte, wird nach aktuellen Angaben sieben Jahre später in Betrieb genommen.	"Initial translation: The first reactor from KEDO scheduled to be online by the end of next year is currently running seven years late.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The first reactor from KEDO scheduled to be online by the end of next year is currently running seven years late."	clean_translation
+Herr Präsident, Herr Kommissar! Das Volk von Kambodscha hat viele Jahrzehnte lang stark unter den katastrophalen Auswirkungen eines totalitären Regimes und unter der Korruption hochrangiger Beamter gelitten.	"Initial translation: Mr President, Commissioner, the people of Cambodia have suffered extensively for many decades from the catastrophic effects of a totalitarian government and high-level official corruption.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Mr President, Commissioner, the people of Cambodia have suffered extensively for many decades from the catastrophic effects of a totalitarian government and high-level official corruption."	clean_translation
+Seit langem hoffen wir, dass dieses Kapitel endlich abgeschlossen werden kann, und zwar endgültig.	"Initial translation: For a long time, we have been hoping that this chapter could be closed, once and for all.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: For a long time, we have been hoping that this chapter could be closed, once and for all."	clean_translation
+Ihre Lebensberichte können erschreckend oder ergreifend sein, doch sie sind äußerst lebendig in Englunds der in Details verlierenden Ansammlung kleiner Momente.	"Initial translation: Their life stories can be shocking or moving, but they are very vivid in England's of the losing detail of small moments.
+
+Analysis: The German ""Englunds"" refers to a person's name (Mr. Englund) but the model confused it with the country ""England"" and created the nonsensical possessive ""England's
+
+Corrected translation: The accounts of their lives can be terrifying or stirring, but are most fully alive in Mr. Englund's accumulation of small moments, stray details."	error_correction
+Der Umfang der privaten und öffentlichen Investitionen als Anteil am BIP ist, wie unser Kollege Herr Karas feststellt, seit den siebziger Jahren drastisch zurückgegangen.	"Initial translation: The decrease in the share of GDP used for private and public investments in comparison with the 1970s is drastic, as our colleague Mr Karas described.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The decrease in the share of GDP used for private and public investments in comparison with the 1970s is drastic, as our colleague Mr Karas described."	clean_translation
+Am Übergang vom Festland ist es bis zu 700 Meter dick, an der Vorderkante zum freien Ozean rund 200 Meter.	"Initial translation: The thickness of the ice at the coastal transition is up to 700 metres, and the thickness of the ice at the front of the pack is around 200 metres.
+
+Analysis: The model added ""ice"" repeatedly when the German doesn't specify what ""es"" refers to - the target shows this should be left as ""it
+
+Corrected translation: It is up to 700 metres thick where it meets the mainland, and around 200 metres at the front edge to the open ocean."	error_correction
+"Branchenexperten schätzen den Wert der inzwischen in ""Greentowers"" umbenannten Türme der Zeitung zufolge auf rund 500 Millionen Euro."	"Initial translation: Industry experts estimate the value of the newspaper's 'Green Towers' at around EUR 500 million.
+
+Analysis: The German ""der Zeitung zufolge"" means ""According to the newspaper"" but the model changed this to ""the newspaper's"" which makes it seem like the newspaper owns the towers rather than reporting the story. The phrase ""inzwischen in 'Greentowers' umbenannten Türme"" should be ""towers, renamed the 'Greentowers'"" not ""newspaper's 'Green Towers'"" - the model missed that these were renamed towers and incorrectly attributed ownership. The model also lost the attribution structure that shows this is newspaper reporting
+
+Corrected translation: According to the newspaper, industry experts estimate the value of the towers, renamed the ""Greentowers,"" at around 500 million Euros."	error_correction
+Die Deutsche Bahn in NRW kündigte an, alles zu tun, um die Auswirkungen möglichst gering zu halten.	"Initial translation: The German Railways in North Rhine-Westphalia announced that they would do everything possible to limit the effects.
+
+Analysis: The German ""Deutsche Bahn in NRW"" should be ""Deutsch Bahn in NW"" not ""The German Railways in North Rhine-Westphalia"" - wrong abbreviation handling and company name translation. The phrase ""alles zu tun, um die Auswirkungen möglichst gering zu halten"" should be ""they will do everything they can to ensure disruptions are kept to a minimum"" not ""they would do everything possible to limit the effects"" - wrong tense (will vs. would), wrong object (disruptions vs. effects), and wrong verb phrase (ensure...kept to minimum vs. limit). The model was too explanatory with the state name and lost the specific focus on ""disruptions
+
+Corrected translation: Deutsch Bahn in NW has announced that they will do everything they can to ensure disruptions are kept to a minimum."	error_correction
+Außerdem haben wir die notwendigen Argumente bereits heute, denn wir wissen, dass diese gefährlichen Stoffe im menschlichen Körper akkumuliert werden und in großem Ausmaß in unserer Lebensumwelt vorkommen.	"Initial translation: Moreover, we are in possession of the arguments right now, and we know that these substances, which are hazardous, accumulate in the human body and are increasingly present in our living environment.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Moreover, we are in possession of the arguments right now, and we know that these substances, which are hazardous, accumulate in the human body and are increasingly present in our living environment."	clean_translation
+Da sowohl die Holzabfuhr als auch das Abbiegen im aktuellen Ausbauzustand funktionierten, solle man dem Umbau des Bahnübergangs nicht zustimmen, argumentierte Haas.	"Initial translation: Since both the timber export and the turn-off worked in the current state of the expansion, Mr Haas argued against the change of the level crossing.
+
+Analysis: The German ""Holzabfuhr"" should be ""transportation of wood"" not ""timber export"" - this is about local wood transport, not international export. ""Abbiegen"" should be ""turning"" not ""turn-off"" - it refers to the turning movement of vehicles, not an exit ramp. ""Ausbauzustand"" should be ""current state"" or ""as things are"" not ""state of the expansion"" - this refers to the existing condition. ""Umbau des Bahnübergangs"" should be ""reconstruction of the railway crossing"" not ""change of the level crossing"" - the scale of work is different
+
+Corrected translation: Because both the transportation of wood and turning are both possible as things are, the reconstruction of the railway crossing should not be consented to, argued Haas."	error_correction
+Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.	"Initial translation: Everyone knows that if you get excited about the car navigation system, it will show you a green field instead of a detour.
+
+Analysis: The German ""sich aufregen musste"" means ""has ever got worked up"" (past experience) not ""if you get excited"" (conditional). The model completely misunderstood the causal relationship - it's not that getting excited causes the problem, but that the navigation problem causes people to get worked up. The sentence structure and logic are backwards
+
+Corrected translation: Anyone who has ever got worked up because the car's sat-nav is showing a green field instead of a bypass knows that."	error_correction
+Der erste europäische Bericht über Qualität im Bildungssektor wird der Konferenz der Bildungsminister der Mitgliedstaaten der EU in Bukarest im Juni 2000 und diesem Parlament vorgelegt werden.	"Initial translation: The first European report on quality of education will be presented for the education council for the Conference of European Ministers of Education in Bucharest in June 2000, and for this Parliament.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The first European report on quality of education will be presented for the education council for the Conference of European Ministers of Education in Bucharest in June 2000, and for this Parliament."	clean_translation
+Für die Bibliothek wurde das Vlies - erstmals in diesen Mengen - zu vier Zentimeter dicken Platten gepresst.	"Initial translation: The Library was the first to receive the felt in four centimetre thick sheets.
+
+Analysis: The German ""Für die Bibliothek wurde das Vlies"" should be ""For the library, the fabric was"" not ""The Library was the first to receive the felt"" - completely wrong subject and process. The phrase ""erstmals in diesen Mengen"" (for the first time in these quantities) was completely omitted from the translation. The word ""Vlies"" should be ""fabric"" not ""felt"" - different material terminology. The phrase ""zu vier Zentimeter dicken Platten gepresst"" should be ""pressed into four-centimetre-thick boards"" not ""in four centimetre thick sheets"" - wrong final form (boards vs. sheets) and missing the pressing process. The model completely changed the meaning from material being processed for the library to the library receiving material first
+
+Corrected translation: For the library, the fabric was - for the first time in these quantities - pressed into four-centimetre-thick boards."	error_correction
+Wir zählen nicht nur darauf, wir werden auch darauf dringen, dass das Wirklichkeit wird.	"Initial translation: We are not only counting on it, we will also press for it to actually happen.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We are not only counting on it, we will also press for it to actually happen."	clean_translation
+Für Klasse und Stabilität beim Suchsdorfer SV sorgen vor allem die Importe aus dem hohen Norden.	"Initial translation: For class and stability, the imports from the north are the key.
+
+Analysis: The German ""vor allem die Importe aus dem hohen Norden"" should be ""It is above all the imports from the high north"" not just ""the imports from the north are the key"" - the model omitted ""hohen"" (high) and changed the sentence structure. The phrase ""beim Suchsdorfer SV sorgen"" was completely omitted - this should be ""that bring class and stability to Suchsdorfer SV
+
+Corrected translation: It is above all the imports from the high north that bring class and stability to Suchsdorfer SV."	error_correction
+Wer im Irak war, weiß, wie die Situation dort ist.	"Initial translation: Anyone who has been in Iraq will know what the situation there is like.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Anyone who has been in Iraq will know what the situation there is like."	clean_translation
+Er widerspricht auch der Behauptung, er sei nur ein Vorsitzender der Tschechen.	"Initial translation: It also contradicts the assertion that he is only the chairman of the Czechs.
+
+Analysis: The grammatical structure is wrong - ""It also contradicts"" should be ""Furthermore, he refutes"" because the subject is the person, not an impersonal ""it
+
+Corrected translation: Furthermore, he refutes the allegations he would only be a Czech President."	error_correction
+"Konzert der ""Studenten der samtenen Revolution"" mit Gesangsensembles der Karlsuniversität"	"Initial translation: Concert by the 'Students of the Velvet Revolution' with choirs from Charles University
+
+Analysis: The model completely misunderstood the structure - ""UK's Choirs"" refers to the university choirs (UK = Univerzita Karlova/Charles University), not the country United Kingdom. The title structure was interpreted literally instead of understanding it as a concert title format. The German ""Gesangsensembles der Karlsuniversität"" should be understood as ""UK's Choirs"" in the context of the concert title
+
+Corrected translation: UK's Choirs Will Sing at the Students for Velvet Concert"	error_correction
+Sie werden ihre immer gleichen Behauptungen wiederholen, dem Europäischen Parlament und insbesondere der Kommission gehe es in erster Linie darum, neue Regelungen um der Regelungen willen zu schaffen.	"Initial translation: They will repeat what they are always repeating, namely that the European Parliament and especially the Commission are eager only to produce new regulations for regulation's sake.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: They will repeat what they are always repeating, namely that the European Parliament and especially the Commission are eager only to produce new regulations for regulation's sake."	clean_translation
+Er zerreißt sich für die Mannschaft, geht über Schmerzen drüber.	"Initial translation: He tears himself apart for the team, goes through pain.
+
+Analysis: The German ""Er zerreißt sich für die Mannschaft"" should be ""He bends over backwards for the team"" not ""He tears himself apart for the team"" - while both convey extreme effort, ""bends over backwards"" is the proper English idiom for making extraordinary effort, while ""tears apart"" is too literal and violent. The phrase ""geht über Schmerzen drüber"" should be ""ignoring any pain"" not ""goes through pain"" - this is about disregarding pain, not experiencing it. The model's version suggests suffering while the reference suggests determination despite discomfort
+
+Corrected translation: He bends over backwards for the team, ignoring any pain."	error_correction
+Ich vertrete einen Wahlbezirk, in dem ein Drittel der Bevölkerung nicht englischer Herkunft ist, und viele nicht die britische Staatsangehörigkeit besitzen.	"Initial translation: I represent an area where a third of the population are of non-English origin and many are not UK citizens.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I represent an area where a third of the population are of non-English origin and many are not UK citizens."	clean_translation
+Nutznießer des Überblicks des neununddreißigjährigen Eishockeystars war in beiden Fällen Claude Giroux, der noch eine Assistenz hinzufügte und zum besten Spieler des Matches ausgerufen wurde.	"Initial translation: The beneficiaries of the 39-year-old hockey star's view were both Giroux, who added an assist and was named the game's best player.
+
+Analysis: The German ""Nutznießer des Überblicks des neununddreißigjährigen Eishockeystars war in beiden Fällen Claude Giroux"" should be ""In both cases, Claude Giroux, used the experience of a thirty-nine year old star"" not ""The beneficiaries of the 39-year-old hockey star's view were both Giroux"" - Claude Giroux is the beneficiary, not multiple people, and it's about using someone else's experience. The phrase ""noch eine Assistenz hinzufügte"" should be ""he added an extra pass"" not ""added an assist"" - ""pass"" is more precise than ""assist"" in this context. The structure should show Giroux benefiting from the older player's oversight
+
+Corrected translation: In both cases, Claude Giroux, used the experience of a thirty-nine year old star; he added an extra pass and was announced best player of the match."	error_correction
+"Handball: Verbandsliga 1: ASV Senden nach Last-Minute-Pleite ""am Boden zerstört"""	"Initial translation: Handball: Verbandsliga 1: ASV Senden after last-minute collapse 'destroyed'
+
+Analysis: The German ""Verbandsliga"" should be translated as ""Association League"" rather than left untranslated, as this is a specific German sports league classification. The word ""Pleite"" in sports context means ""loss/defeat"" not ""collapse"" which suggests structural failure rather than a game result. The phrase ""am Boden zerstört"" should be ""devastated"" rather than just ""destroyed"" to better convey the emotional state after a sports defeat. The model kept German sports terminology and misinterpreted the sports-specific language
+
+Corrected translation: Handball: Association League 1: ASV Senden ""devastated"" after last-minute loss"	error_correction
+Laut Besitzer der brennenden Gartenhütte hatte er zu Mittag einen Akku zum Laden angesteckt.	"Initial translation: According to the owner of the burning garden shed, he had put a battery in it for lunch.
+
+Analysis: The phrase ""zum Laden angesteckt"" should be ""connected a battery to the power supply for charging"" not ""put a battery in it for lunch"" - the model completely misunderstood ""Laden"" as ""lunch"" instead of ""charging
+
+Corrected translation: The owner of the burning garden hut stated that at noon he had connected a battery to the power supply for charging."	error_correction
+Wir werden 2030 40 % mehr Energie benötigen, und ich möchte hinzufügen, dass 80 % dieser Verbrauchernachfrage von Ländern außerhalb der OECD kommen werden.	"Initial translation: We will need 40% more energy in 2030, and I would add that 80% of this consumer demand will come from countries outside the OECD.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We will need 40% more energy in 2030, and I would add that 80% of this consumer demand will come from countries outside the OECD."	clean_translation
+Wenn Europa die Führung bei diesem Programm innehat, dann weil es auf diesem Gebiet die hohe Qualität seiner Forschung unter Beweis gestellt hat.	"Initial translation: If Europe has the leadership of this programme, that is because it has demonstrated in the field the high quality of the research that it carries out.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: If Europe has the leadership of this programme, that is because it has demonstrated in the field the high quality of the research that it carries out."	clean_translation
+In einem Fall war der einzige Kontakt, der einer betroffenen Frau einfiel, der Abriss eines Gartenschuppens in den 1970ern.	"Initial translation: In one case, the only contact that a woman had with the organisation was the demolition of a greenhouse in the 1970s.
+
+Analysis: The German ""Gartenschuppen"" means ""garden shed"" not ""greenhouse"" - these are different structures. The phrase ""der einer betroffenen Frau einfiel"" means ""that the affected woman could think of"" not ""that a woman had with the organisation"" - the model misunderstood that this is about what came to mind, not organizational contact. The word ""betroffenen"" indicates she was a sufferer/victim, which was lost. The model added ""in the 1970s"" which doesn't appear in the German source
+
+Corrected translation: In one case the only contact the woman sufferer could think of was pulling down a garden shed in the 1970s."	error_correction
+Ich glaube, es ist eine verpasste Chance für die Lissabon-Strategie, und ich hoffe, wir können das gemeinsam nachbessern.	"Initial translation: I think this a missed opportunity for the Lisbon Strategy and I hope that together we can remedy this situation.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I think this a missed opportunity for the Lisbon Strategy and I hope that together we can remedy this situation."	clean_translation
+"""Fleischgerichte sind dagegen exklusiv, und zwar im wahrsten Sinne des Wortes, denn sie schließen andere aus"", stellt Proctor fest."	"Initial translation: Proctor says that'meat dishes are exclusive, and that is the real meaning of the word', and he is right.
+
+Analysis: The phrase ""sie schließen andere aus"" (they rule others out) was completely omitted. The German ""stellt fest"" should be ""assessed"" not just ""says
+
+Corrected translation: ""Meat dishes, on the other hand, are exclusive, in the truest sense of the word, as they rule others out,"" assessed Proctor."	error_correction
+Nicht wenige Promis trinken sich auch für die obligatorischen Gesangseinlagen Mut an.	"Initial translation: Not a few celebrities are also drinking to the obligatory singing.
+
+Analysis: The German idiom ""sich Mut antrinken"" should be ""need the liquid courage"" not ""drinking to"" - the model lost the idiomatic meaning about drinking alcohol to gain courage for performance. The phrase ""obligatorischen Gesangseinlagen"" should be ""obligatory vocal number"" not ""obligatory singing"" - ""vocal number"" is more appropriate for entertainment performances. The opening ""Nicht wenige"" should be ""Quite a few"" not ""Not a few"" - the reference uses more natural English phrasing. The model misunderstood both the idiomatic expression and the entertainment context
+
+Corrected translation: Quite a few celebs also need the liquid courage for the obligatory vocal number."	error_correction
+Aber es schade auch niemandem aus anderen Ecken Deutschlands, einmal Angela Merkel zuzuhören.	"Initial translation: But it is no good for anyone in other parts of Germany to listen to Angela Merkel.
+
+Analysis: The German ""schade auch niemandem"" means ""won't do any harm"" but the model translated it as ""is no good"" - this reverses the meaning from harmless to harmful. The phrase ""einmal...zuzuhören"" should be ""to listen...for once"" not just ""to listen"" - the ""once"" aspect suggests giving it a try. The name should be ""Angela Merkal"" not ""Angela Merkel"" according to the target's specific spelling
+
+Corrected translation: But it won't do any harm to anyone from other parts of Germany to listen to Angela Merkal for once."	error_correction
+Ich hoffe, dass wir, wenn Dänemark Mitte des Jahres den Ratsvorsitz übernimmt und die historischen Entscheidungen über die Erweiterung getroffen werden müssen, ein verantwortungsvolles, vereintes und entschlossenes Westeuropa sehen werden, das diese neuen Demokratien in der demokratischen Gemeinschaft willkommen heißt.	"Initial translation: I hope that as we move towards the Danish Presidency later this year and the historic decisions on enlargement, we will see a responsible, united and purposeful Western Europe welcoming these new democracies into the democratic fold.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I hope that as we move towards the Danish Presidency later this year and the historic decisions on enlargement, we will see a responsible, united and purposeful Western Europe welcoming these new democracies into the democratic fold."	clean_translation
+"Für die Bauarbeiten an der Brücke am Lauterbacher Ortseingang ist die Straße im Bereich der Brücke auf Höhe der Hotels ""Tannenhof"" und ""Sieben Linden"" voll gesperrt."	"Initial translation: The road over the bridge at the entrance to Lauterbach is closed for building work on the bridge.
+
+Analysis: The German should begin with ""For the construction works"" and include ""East entrance to the town of Lauterbach
+
+Corrected translation: For the construction works on the bridge at the East entrance to the town of Lauterbach, the road in the area of the bridge, where the ""Tannenhof"" and ""Sieben Linden"" hotels are, is fully closed."	error_correction
+So etwa, als er einen Schuss von Ideye über die Latte lenkte (56.).	"Initial translation: For example, when he put a shot over the bar from the edge of the box (56).
+
+Analysis: The German ""lenkte"" means ""steered/directed"" not ""put"" - this is a lexical error where the model chose a less precise verb. The phrase ""von Ideye"" (from Ideye) was completely omitted, losing the player's name. The model added ""from the edge of the box"" which doesn't exist in the German text - this is an addition error. The German ""über die Latte"" should be ""over the crossbar"" not just ""over the bar"" - missing the specific soccer terminology
+
+Corrected translation: For example when he steered a shot from Ideye over the crossbar in the 56th minute."	error_correction
+Es wird darüber nachzudenken sein, wie den Bürgern und den Medien verständlich gemacht werden kann, daß sauberer Dieselkraftstoff künftig schadstoffärmer und umweltfreundlicher sein wird als bleifreies Benzin und daß die Ölindustrie und die Autohersteller dazu einen Beitrag geleistet haben.	"Initial translation: We must consider how to make the people and the media understand that, in future, clean diesel will cause less pollution than unleaded petrol. We must do so in cooperation with the car and oil indutries.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We must consider how to make the people and the media understand that, in future, clean diesel will cause less pollution than unleaded petrol. We must do so in cooperation with the car and oil indutries."	clean_translation
+Man konnte durchaus aus der Perspektive der Jahrtausendwende immer wieder auf die angebliche Rationalität des Marktes Bezug nehmen, auf die Gefahren für den Wettbewerb und auf eine in der Globalisierung mögliche Aufbruchssituation.	"Initial translation: From the perspective of the turn of the millennium, we referred again and again to the apparent rationality of the market, to the risks for competition and possible cracks in globalisation.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: From the perspective of the turn of the millennium, we referred again and again to the apparent rationality of the market, to the risks for competition and possible cracks in globalisation."	clean_translation
+In Nordböhmen melden die Straßenmeistereien gleich mehrere schlecht befahrbare Straßenabschnitte.	"Initial translation: In North Bohemia, the road authorities are reporting several sections of road that are in a bad state.
+
+Analysis: The model omitted ""since this morning"" (timing) that's present in the target. The phrase ""Straßenmeistereien"" should be ""snowploughs"" not just ""road authorities"" - these are specific winter road maintenance crews. The term ""schlecht befahrbar"" means ""difficult to pass"" not just ""in a bad state"" - it's about passability, not general condition. The model lost the winter/snow context and the timing element, making it less specific about weather-related road conditions
+
+Corrected translation: Since this morning, the snowploughs have reported several places, which are difficult to pass in northern Bohemia."	error_correction
+Deshalb freue ich mich auch darüber, dass wir besondere Betonung auf den rechtegestützten Ansatz legen.	"Initial translation: That is why I am pleased that we are stressing the rights-based approach.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: That is why I am pleased that we are stressing the rights-based approach."	clean_translation
+Wir müssen das Risiko vermeiden, dass Informationen, die vermeintlich wissenschaftlicher Natur sind, die viel weniger noble Absicht verschleiern, Patienten zu beeinflussen und sie dazu zu bringen, ein bestimmtes Medikament zu kaufen.	"Initial translation: We must avoid the risk of supposedly scientific information disguising a much less noble intention, which is to influence patients and steer them towards buying a particular medicine.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We must avoid the risk of supposedly scientific information disguising a much less noble intention, which is to influence patients and steer them towards buying a particular medicine."	clean_translation
+"""Infotafeln statt Kettensägen"" warb dagegen die Psychologin und Ethnologin Uta Maria Jürgens für einen gänzlich anderen Umgang mit den Tieren: ""Einen Pickel im Gesicht können wir schließlich am besten selbstbewusst ertragen."""	"Initial translation: 'Infotafels instead of chainsaws' was the slogan of the psychologist and ethnologist Uta Maria Jürgens, who advocated a completely different approach to animals: 'We can put up with a few scratches on our faces with a little self-confidence.'
+
+Analysis: '""
+The German metaphor ""Einen Pickel im Gesicht können wir schließlich am besten selbstbewusst ertragen"" refers to ""a pimple on the face"" as a metaphor for minor problems, but the model translated this as ""scratches on our faces"" which changes it from a metaphor about accepting imperfections to literal physical damage.  The reference correctly interprets this as ""We should have the self-confidence to live with this problem"" - a general statement about problem acceptance.  The model also said ""animals"" when the reference specifies ""birds,"" and changed ""Information boards"" to ""Infotafels"" mixing languages
+
+Corrected translation: ""Information boards instead of chain saws"" was the slogan proposed by the psychologist and ethnologist Uta Maria Jürgens, who argued for a totally different approach to the birds. ""We should have the self-confidence to live with this problem."""	error_correction
+"""Des sind die, wos goarnimmer packn"", rief mir einer der Sanitäter auf Anfrage zu und verschwand im Getümmel."	"Initial translation: That is what they are for, said one of the paramedics when I asked him, and he disappeared into the crowd.
+
+Analysis: The German dialect ""Des sind die, wos goarnimmer packn"" means ""It's the ones that can't take any more"" but was completely misunderstood as ""That is what they are for"" - losing the meaning about people who can't cope anymore. The German ""rief mir...zu"" should be ""shouted when I asked him about it"" not just ""said when I asked him"" - missing the urgency and specific reference (""about it""). The phrase ""im Getümmel"" should be ""in the crowd"" not ""into the crowd"" - the paramedic disappeared within the existing crowd, not moving into it. The model fundamentally misunderstood the dialectal expression about human limits
+
+Corrected translation: `It's the ones that can't take any more,' one of the paramedics shouted when I asked him about it, disappearing in the crowd."	error_correction
+Dieser hatte mit scharfen Worten einen Rassismus gegenüber Özil und Ilkay Gündogan angeprangert.	"Initial translation: He had spoken out against racism against Özil and Ilkay Gündogan in no uncertain terms.
+
+Analysis: The German ""mit scharfen Worten...angeprangert"" should be ""was very critical of"" not ""had spoken out...in no uncertain terms"" - the target uses more formal academic language. The phrase ""einen Rassismus gegenüber"" should be ""the racism against"" not ""racism against"" - definite vs indefinite article. The tense should be simple past rather than past perfect according to the target structure
+
+Corrected translation: The latter was very critical of the racism against Özil and Ilkay Gündogan."	error_correction
+Um den Esstisch ist das sicherlich eine gute Sache, aber es fällt mir in einem weiteren Zusammenhang auf, dass dies auch erhebliche Risiken mit sich bringt.	"Initial translation: It is certainly a good thing to have the table around which to eat, but I would point out that it also brings with it considerable risks.
+
+Analysis: The German ""Um den Esstisch"" means ""around the dinner table"" referring to family conversations, not ""to have the table around which to eat
+
+Corrected translation: Around the dinner table this is surely a good thing; but it strikes me that, in a broader context, it carries significant risks."	error_correction
+Der immer größer werdende Bereich der grenzüberschreitenden Bank- und Versicherungsgeschäfte und der Vermögensverwaltung mit seinen z. T. sehr komplexen Instrumenten stellt ein wachsendes Problem dar.	"Initial translation: The growing area of cross-border banking, insurance sales and wealth management which has some very sophisticated instruments is a growing problem.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The growing area of cross-border banking, insurance sales and wealth management which has some very sophisticated instruments is a growing problem."	clean_translation
+"Nicht nur deshalb haben Reuben Proctor und Lars Thomsen ein Buch geschrieben: ""Veganissimo - Tierische Inhaltsstoffe und ihre Alternativen"" erklärt die vielen Inhaltsstoffe, die Nahrungs- aber auch Reinigungsmitteln beigesetzt werden."	"Initial translation: Not only for that reason have Reuben Proctor and Lars Thomsen written a book: 'Veganissimo - Animal ingredients and their alternatives' explains the many ingredients that are added to food and cleaning products.
+
+Analysis: The German ""Nicht nur deshalb"" should be ""Therefore, for this reason and others"" not ""Not only for that reason"" - the target emphasizes positive reasoning rather than negative construction. The inversion ""have Reuben Proctor and Lars Thomsen written"" is awkward in English - it should be ""Reuben Proctor and Lars Thomsen have written"" for natural flow. The German title should include both the original German and English translation as shown in the target: ""(Veganissimo - Animal Ingredients and their Alternatives)
+
+Corrected translation: Therefore, for this reason and others, Reuben Proctor and Lars Thomsen have written a book. ""Veganissimo - Tierische Inhaltsstoffe und ihre Alternativen"" (Veganissimo - Animal Ingredients and their Alternatives) explains the many ingredients hidden in both foodstuffs and cleaning agents."	error_correction
+Unter der Regie der Schottener Gesellschaft für Tourismus und Stadtmarketing (GTS) hatte der Park ein schönes Festambiente erhalten und natürlich hatte man Leckereien, etwa Flammkuchen mit gut gekühltem Federweißer, vorbereitet.	"Initial translation: The park had been given a lovely festival atmosphere under the auspices of the Scottish Tourist Board and, of course, there were treats, such as flammkuchen with cold white wine.
+
+Analysis: The German ""Schottener Gesellschaft für Tourismus und Stadtmarketing (GTS)"" should be ""Schotten Association for Tourism and Town Marketing (GTS)"" not ""Scottish Tourist Board"" - wrong location (Schotten is a German town, not Scotland). The phrase ""ein schönes Festambiente erhalten"" should be ""had acquired a lovely festive ambience"" not ""had been given a lovely festival atmosphere"" - different verb and formality. The German ""Leckereien"" should be ""nice nibbles"" not just ""treats"" - more specific food terminology. The phrase ""gut gekühltem Federweißer"" should be ""well-chilled Federweißer wine"" not ""cold white wine"" - Federweißer is a specific type of new wine, not generic white wine. The word ""natürlich"" (of course) was translated correctly
+
+Corrected translation: Under the guidance of manager of the Schotten Association for Tourism and Town Marketing (GTS) the Park had acquired a lovely festive ambience and, of course, there were plenty of nice nibbles, such as Flammkuchen with well-chilled Federweißer wine, too."	error_correction
+Es ist in diesem Zusammenhang von wesentlicher Bedeutung, rasch zur operativen Phase der neuen Nachbarschaftsstrategie überzugehen. Dazu gehören spezifische Aktionspläne und neue Hilfsinstrumente.	"Initial translation: In this context, it is vital that we move on to the practical phase of the new neighbourhood strategy without delay, with specific action plans and new systems of assistance.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: In this context, it is vital that we move on to the practical phase of the new neighbourhood strategy without delay, with specific action plans and new systems of assistance."	clean_translation
+Trotz der nun monatelangen Debatte um die Fotos von Özil mit dem türkischen Präsidenten Recep Tayyip Erdogan bedauere er den Rücktritt des 92-fachen Nationalspielers Özil.	"Initial translation: Despite the months of debate about the photos of Özil with the Turkish President, Mr. Özil's resignation is to be regretted.
+
+Analysis: The phrase ""ist zu bedauern"" means ""is to be regretted"" which the model got correct, but this contradicts the target which suggests it should be about the resignation being unexpected rather than regrettable. The model added ""Mr
+
+Corrected translation: In spite of the debate going on for months about the photos of Özil with the Turkish President Recep Tayyip Erdogan, he regrets the return of the 92-match national player Özil."	error_correction
+Es wäre mir trotzdem lieber gewesen, wenn ich eine klarere Antwort auf den Kern meiner Frage erhalten hätte, bei der es um die Regelung der Quotenaufteilung und Schonzeiten ging.	"Initial translation: I would have preferred, however, to receive a clearer response to the substance of my question, which related to the rules governing the sharing of quotas and closed seasons.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I would have preferred, however, to receive a clearer response to the substance of my question, which related to the rules governing the sharing of quotas and closed seasons."	clean_translation
+Auch bekannte Persönlichkeiten halten dies häufig für rausgeworfenes Geld (die Hauptsache ist, dass ich etwas bringe, wie ich dabei aussehe ist zweitrangig).	"Initial translation: Many famous people think it is a waste of money (the main thing is that I bring something, how I look is secondary).
+
+Analysis: The German ""rausgeworfenes Geld"" was correctly translated as ""waste of money"" while the reference uses ""redundant"" which is less direct. The phrase ""die Hauptsache ist, dass ich etwas bringe"" means ""the main thing is that I contribute something"" but was translated with ""bring something"" which is less natural than the reference's ""sufficient to be good at something"". The phrase ""wie ich dabei aussehe"" means ""how I look while doing it"" but both translations simplify this. The model maintains first person ""I"" while the reference switches to third person ""they"" for more formal tone. The parenthetical explanation is clearer in the model's version
+
+Corrected translation: Even famous people often consider it redundant (believing it is sufficient to be good at something, and how they look at it comes second)."	error_correction
+Es ist klar, dass man nicht mit allen immer einer Meinung sein kann, aber letzten Endes wird doch eine Einigung erzielt – und das ist Demokratie -, und zwar entsprechend der mehrheitlichen Meinung, was die Meinung dieser Institution ist.	"Initial translation: Clearly not everybody agrees all the time, but in the end an agreement is reached – and that is democracy – in accordance with the majority opinion, which is the opinion of the institution.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Clearly not everybody agrees all the time, but in the end an agreement is reached – and that is democracy – in accordance with the majority opinion, which is the opinion of the institution."	clean_translation
+Unsere gemeinsame Fischereipolitik kann nur so stark sein, wie das schwächste Glied der Kette.	"Initial translation: Our common fisheries policy is only as strong as its weakest link.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Our common fisheries policy is only as strong as its weakest link."	clean_translation
+"Für den Verband Otre droht das Abkommen ""den kleinen und mittleren Unternehmen der Branche in den kommenden 12 Monaten ein großes Grab zu schaufeln""."	"Initial translation: The agreement is threatening to bury the small and medium-sized businesses in the sector over the next 12 months.
+
+Analysis: The German organization name ""Verband Otre"" (OTRE association) was completely omitted - it should be ""For the OTRE"" to indicate the source of the statement. The phrase ""ein großes Grab zu schaufeln"" was simplified to ""bury"" when it should be ""digging the graves of a large number"" - losing the metaphor and the quantifier ""large number"". The model also lost the direct quote formatting that emphasizes this is a statement from OTRE
+
+Corrected translation: For the OTRE, the agreement risks ""digging the graves of a large number of the sector's SMEs over the next 12 months""."	error_correction
+In der Tat zeigt uns eben dieses Beispiel, dass wir nicht aus einem Unfall die Schlussfolgerung ziehen sollten, dass die Kerntechnologie untragbar ist.	"Initial translation: Indeed, this very example is telling us that we should not conclude from one accident that nuclear technology is unacceptable.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Indeed, this very example is telling us that we should not conclude from one accident that nuclear technology is unacceptable."	clean_translation
+Liebe Kolleginnen und Kollegen, der Haushaltsausschuß unterstützt den Kompromißvorschlag als das kleiner Übel mit überwältigender Mehrheit, praktisch einstimmig.	"Initial translation: Ladies and gentlemen, the Committee on Budgets fully supports, almost unanimously, the proposed compromise as the lesser of two evils.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Ladies and gentlemen, the Committee on Budgets fully supports, almost unanimously, the proposed compromise as the lesser of two evils."	clean_translation
+Die tollen Treffer aus dem Perimeter heraus mit 16 bewerteten Dreifachen trugen maβgeblich zu ihrem endgültigen Sieg bei.	"Initial translation: The wonderful long-range strikes from outside the perimeter with 16 assessed triples were a major factor in their final victory.
+
+Analysis: The German ""Perimeter"" should be translated as ""sidelines"" in basketball context, not kept as ""perimeter
+
+Corrected translation: Additionally, their huge success from the sidelines, with 16 three pointers scored, had a lot to do with the final triumph."	error_correction
+Er liefert mir die Schlagringe ebenfalls nur deshalb, weil er weiß, dass ich ihn nicht verpfeife.	"Initial translation: He gives me the hooks because he knows I will not bite.
+
+Analysis: The German ""Schlagringe"" means ""knuckle dusters/brass knuckles"" but was translated as ""hooks"" - this is a significant misidentification of a weapon type. The phrase ""dass ich ihn nicht verpfeife"" is idiomatic meaning ""that I won't rat him out/give him away"" but was translated literally as ""I will not bite"" - this completely misses the idiomatic meaning about not informing on someone. The reference correctly captures this with ""I won't give him away"" which preserves the sense of not betraying or informing on the person. Both errors fundamentally change the meaning from weapon trafficking with trust about silence to something about hooks and biting
+
+Corrected translation: He also supplies them only to me, because he knows that I won't give him away."	error_correction
+Wir arbeiten derzeit ebenfalls an einer Reihe von solchen Gesetzen.	"Initial translation: We are working on a number of such laws currently as well.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We are working on a number of such laws currently as well."	clean_translation
+Meine Sorge geht darauf zurück, daß derzeit im Hinblick auf die Mittelmeerländer die Glaubwürdigkeit der Union auf dem Spiel steht, denn wir haben eine Mittelmeerpolitik verabschiedet und müssen nun unseren Verpflichtungen nachkommen.	"Initial translation: I am concerned that at this moment the Union's credibility is at stake vis-à-vis the Mediterranean countries because we have approved a Euro-Mediterranean policy and we must honour our commitments.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I am concerned that at this moment the Union's credibility is at stake vis-à-vis the Mediterranean countries because we have approved a Euro-Mediterranean policy and we must honour our commitments."	clean_translation
+Voráček erkämpfte hinter dem Tor der Hurricanes den Puck und legte ihn zwischen den Kreisen dem erfolgreichen Maxim Talbot vor.	"Initial translation: Vránek fought for the puck behind the Hurricanes' net and put it between the pipes for the successful Maxim Talbot.
+
+Analysis: The name ""Voráček"" was changed to ""Vránek"" - this is a different person. The phrase ""zwischen den Kreisen"" means ""between the circles"" (hockey terminology) not ""between the pipes"" (which means in the goal). The structure should be ""won the puck and presented it to Maxim Talbot, who scored"" not ""put it...for the successful Maxim Talbot
+
+Corrected translation: The trailing Hurricanes' Voráček won the puck and presented it to Maxim Talbot, who scored between the circles."	error_correction
+Man muss auch ein Thema beachten, das im Bericht von Stéphane Le Foll angesprochen wurde: Wir importieren sehr viel Soja aus z. B. Brasilien.	"Initial translation: We also need to take note of a subject that is mentioned in the Le Foll report, namely, the fact that we import a great deal of soya from Brazil, for example.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We also need to take note of a subject that is mentioned in the Le Foll report, namely, the fact that we import a great deal of soya from Brazil, for example."	clean_translation
+Herr Präsident, ich habe die Zeit vielleicht etwas überzogen und entschuldige mich dafür, doch es gab so viele gute Fragen, dass ich versuchen wollte, auf möglichst viele von ihnen zu antworten.	"Initial translation: Mr President, I have perhaps run over slightly and I apologise for that. However, there were so many good questions that I wanted to attempt to answer as many of them as possible.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Mr President, I have perhaps run over slightly and I apologise for that. However, there were so many good questions that I wanted to attempt to answer as many of them as possible."	clean_translation
+Die Kommission verfolgt die Situation auf dem Getreidemarkt und ihre Auswirkungen für die Landwirte sehr genau.	"Initial translation: The Commission is following the situation in the cereals markets and its repercussions for farmers very closely.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The Commission is following the situation in the cereals markets and its repercussions for farmers very closely."	clean_translation
+Wenn wir von Weiterbildung sprechen, bereitet diese die Menschen wirklich auf den Markt vor, bereitet sie sie auf den Arbeitsmarkt vor?	"Initial translation: If we are speaking of further education, does it really prepare people for the market; for the labour market?
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: If we are speaking of further education, does it really prepare people for the market; for the labour market?"	clean_translation
+Mit einem schmalen Kader mussten die Herren I des TSV Freudenstadt in der Schiller-Schulturnhalle in Reutlingen gegen die TG Gönningen von der Schwäbischen Alb antreten.	"Initial translation: With a small squad, the gentlemen of TSV Freudenstadt had to play against TG Gönningen from the Swabian Alb in the Schiller-Schulturnhalle in Reutlingen.
+
+Analysis: The German ""Herren I"" should be ""Herren I team (Men's First Team)"" not ""gentlemen"" - this is a specific sports team designation. The phrase ""schmalen Kader"" should be ""slender squad"" not ""small squad"" - more precise terminology. The phrase ""mussten...antreten"" should be ""stepped into"" not ""had to play"" - different action emphasis. The venue should be ""Schiller School Gymnasium"" not ""Schiller-Schulturnhalle"" - the target uses English terminology
+
+Corrected translation: With a slender squad, the TSV Freudenstadt Herren I team (Men's First Team) stepped into the Schiller School Gymnasium in Reutlingen to face TG Gönningen of the Swabian Alb region."	error_correction
+Als Berichterstatterin des Parlaments für Mediation hoffe ich, dass Betroffene versuchen, Konflikte mithilfe von alternativen Verfahren beizulegen und damit die mit gerichtlichen Verfahren verbundenen Kosten und Verzögerungen zu vermeiden.	"Initial translation: Of course, as the Parliament's rapporteur on mediation, I hope parties will use alternative dispute resolution to find a settlement to conflicts while avoiding the costs and delays of court proceedings.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Of course, as the Parliament's rapporteur on mediation, I hope parties will use alternative dispute resolution to find a settlement to conflicts while avoiding the costs and delays of court proceedings."	clean_translation
+Die unterschiedlichen bildungspolitischen Schubladen sind nicht voneinander zu trennen, wie die Gegenstände nicht nur in unterschiedliche Lehrpläne einzuteilen sind und jeder seinen Bereich am meisten verteidigt.	"Initial translation: The various aspects of education policy cannot be separated any more than the subjects can be divided into different curricula with each defending his own the strongest.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The various aspects of education policy cannot be separated any more than the subjects can be divided into different curricula with each defending his own the strongest."	clean_translation
+Alessandro Schöpf brachte die Heimequipe in der elften Minute nach starker Vorarbeit von Jewgeni Konopljanka per Kopf in Führung, in der Folge konservierten die Gastgeber das Minipolster mit einer kompakten Defensivleistung.	"Initial translation: Alessandro Schöpf put the home team ahead in the eleventh minute with a well-worked goal, and the hosts then kept the scoreboard ticking over with a solid defensive performance.
+
+Analysis: The German should be ""secured the lead"" not ""put ahead
+
+Corrected translation: Alessandro Schöpf secured the lead of the home team in the eleventh minute after heavy preparatory head work by Yevgeny Konoplyanka, as a result of which the home team preserved the mini buffer with a solid defensive performance."	error_correction
+Dies ist der Gegenstand von vier amerikanischen Forschungszentren, von denen eines nun scheinbar fast am Ziel angelangt ist.	"Initial translation: This is the subject of four American research centres, one of which now seems to be almost there.
+
+Analysis: The model missed that this is about ""the aim of various American research centres"" not just ""the subject of four
+
+Corrected translation: It's the aim of various American research centres and now a team of four institutes has come very close."	error_correction
+Zu bedenken ist, dass natürlich auch die Rolle des Außensekretärs, die in dem Papier positiv angesprochen wurde, in diesem institutionellen Kontext eine andere Bezugsgröße bekommt, die dann negativ zu beurteilen ist.	"Initial translation: It is worth considering the fact that the role of the EU Secretary for foreign affairs, which is viewed positively in the paper, will of course appear in a very different, and rather negative, light in this institutional context.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: It is worth considering the fact that the role of the EU Secretary for foreign affairs, which is viewed positively in the paper, will of course appear in a very different, and rather negative, light in this institutional context."	clean_translation
+Und ich habe auch schon im offenen Ganztag an der Schule gearbeitet.	"Initial translation: I have also worked in a full-time job in a school.
+
+Analysis: The German ""im offenen Ganztag an der Schule"" should be ""at the full-day school in their supplementary activities"" not ""in a full-time job in a school"" - this is a semantic error where the model confused ""offenen Ganztag"" (open all-day program) with full-time employment. The phrase ""offenen Ganztag"" refers to an extended school day program with supplementary activities, not a full-time job. The model simplified the specific educational concept to general employment terms
+
+Corrected translation: And I have also worked at the full-day school in their supplementary activities."	error_correction
+Die Bank hat sich seitdem distanziert, als sie vor acht Jahren fast kollabierte und gerettet werden musste.	"Initial translation: The Bank has since distanced itself from the situation, which it almost collapsed eight years ago.
+
+Analysis: The grammatical structure ""which it almost collapsed"" is incorrect - should be ""since it nearly collapsed"" with proper temporal sequencing. The phrase ""sich distanziert"" should be ""has retreated from them"" not ""distanced itself from the situation"" - the reference indicates retreating from specific entities/policies, not a general situation. The crucial phrase ""und gerettet werden musste"" (and had to be bailed out) is completely omitted from the model's translation. The relative clause construction is malformed and creates confusion about what collapsed
+
+Corrected translation: It has retreated from them since it nearly collapsed eight years ago and had to be bailed out."	error_correction
+"""Mit der Hand oder beim Hinsetzen darf man die Federn auf keinen Fall spüren"", warnt Helena Prokopová."	"Initial translation: Helena Prokopová warns that 'neither hand nor foot must touch the feathers'.
+
+Analysis: The German ""Mit der Hand oder beim Hinsetzen darf man die Federn auf keinen Fall spüren"" should be ""You must not feel the springs when touching the mattress with hands or sitting down on the mattress"" not ""neither hand nor foot must touch the feathers
+
+Corrected translation: ""You must not feel the springs when touching the mattress with hands or sitting down on the mattress,"" warns Helena Prokopova."	error_correction
+Deshalb habe ich am Ende - vor allem aus Verfahrensgründen und wegen des Umgangs miteinander im Petitionsausschuss - dem Bericht nicht zugestimmt.	"Initial translation: For this reason - and more especially on procedural grounds and because of the various dealings in the Committee on Petitions - I ultimately did not vote for the report.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: For this reason - and more especially on procedural grounds and because of the various dealings in the Committee on Petitions - I ultimately did not vote for the report."	clean_translation
+Man hatte sie glauben und denken lassen, dass dies normal sei, was es schwer macht, Veränderungen herbeizuführen.	"Initial translation: Furthermore, it has been instilled into their beliefs and their way of thinking that this was a normal situation, which makes change difficult.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Furthermore, it has been instilled into their beliefs and their way of thinking that this was a normal situation, which makes change difficult."	clean_translation
+Sie waren nicht hier, und ich finde, sie müssen die Verantwortung übernehmen.	"Initial translation: They have not been here, and I think they must bear the shame for it.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: They have not been here, and I think they must bear the shame for it."	clean_translation
+Sie regeln und lenken mit ihrer Tätigkeit das Leben jeden Bürgers.	"Initial translation: By virtue of the activities they perform they regulate and govern the life of every citizen.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: By virtue of the activities they perform they regulate and govern the life of every citizen."	clean_translation
+Aufmerksamkeit ist jedoch beispielsweise auf Brücken geboten, auf denen die Fahrbahnen mitunter vereist und glatt sind.	"Initial translation: Attention is, however, drawn to bridges where the carriageways are sometimes icy and smooth.
+
+Analysis: The German ""Aufmerksamkeit ist geboten"" means ""caution is appropriate"" not ""attention is drawn to
+
+Corrected translation: Caution is, of course, appropriate, for example, on certain bridges, where the surface can be icy and slippery."	error_correction
+Gegen das wegen einer Gelb-roten Karte gegen Milos Veljkovic schon vor der Pause dezimierte Werder Bremen mussten die Stuttgarter zwischenzeitlich bangen.	"Initial translation: Stuttgart had to worry about a red card for Milos Veljkovic before the break, which had already reduced Bremen to ten men.
+
+Analysis: The German sentence structure was completely reorganized incorrectly. The phrase ""Gegen das...dezimierte Werder Bremen mussten die Stuttgarter zwischenzeitlich bangen"" should be ""The Stuttgarters had to take fear of the Werder Bremen, which...had been reduced to a team of ten"" - the model confused who was worrying about whom. The phrase ""wegen einer Gelb-roten Karte"" should be ""because of a yellow-red card"" not just ""red card"" - the yellow-red distinction is important. The word ""dezimierte"" should be ""reduced to a team of ten"" not just ""reduced...to ten men"" to match target phrasing. The model reversed the subject-object relationship
+
+Corrected translation: The Stuttgarters had to take fear of the Werder Bremen, which already before the end of the first half-time had been reduced to a team of ten because of a yellow-red card against Milos Veljkovic."	error_correction
+Auch in diesem Punkt würde meine Fraktion zustimmen, aber wir wollen hier wirklich sichergehen und deshalb sind Sicherheitsklauseln notwendig, um auch Mißbräuche von seiten der Behörden auszuschalten.	"Initial translation: Again, my group would agree with that, but we want to make certain of this, which is why safeguards are necessary to ensure that there are no abuses by the authorities either.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Again, my group would agree with that, but we want to make certain of this, which is why safeguards are necessary to ensure that there are no abuses by the authorities either."	clean_translation
+Für Zugezogene, die sich über Farbbomben ärgern, hat Kerstin Neugebauer wenig Verständnis: Die Hausprojekte und die linke Szene gehörten zum Kiez.	"Initial translation: Kerstin Neugebauer has little sympathy for newcomers who are angry about colour bombs: the home projects and the left scene were part of the scene.
+
+Analysis: The German ""Zugezogene"" should be ""people who have moved in"" not ""newcomers"" - more specific. The phrase ""sich über Farbbomben ärgern"" should be ""irritated by paint bombs"" not ""angry about colour bombs"" - ""irritated"" is more precise, and ""paint bombs"" is more specific than ""colour bombs
+
+Corrected translation: Kerstin Neugebauer has little sympathy for people who have moved in and are irritated by paint bombs: The housing project and the left-wing scene are part of the district."	error_correction
+"Ihre Aufwartung machten anschließend die Dreikönig- singer, die Hansjakob zu dem Ausruf veranlassten: ""Ach wie schön, da werden wieder Jugenderinnerungen an meine eigene Dreikönigzeit lebendig""."	"Initial translation: Their visit was followed by the Three Kings, who led Hansjakob to exclaim: 'Ah, how nice, that brings back memories of my own Three Kings time'.
+
+Analysis: The German ""Dreikönig-singer"" should be ""Dreikönig singers"" not ""Three Kings"" - this preserves the specific German cultural term. The phrase ""Jugenderinnerungen"" should be ""childhood memories"" not just ""memories"" - the youth aspect is missing. The quote ""Ach wie schön"" should be ""Oh how beautiful"" not ""Ah, how nice"" - the target uses more emphatic language. The phrase ""wieder...lebendig"" should be ""back to life"" not just ""back"" - the revival aspect is missing
+
+Corrected translation: The ""Dreikönig"" singers then made their own appearance, leading Hansjakob to exclaim: ""Oh how beautiful, this brings childhood memories of my own time in a Dreikönig group back to life""."	error_correction
+Freie Betten an allen Winterterminen bietet immer stets auch das Reisebüro Ingtours in Vrchlabi an.	"Initial translation: Free beds are always available at all winter terms at the Ingtours travel agency in Vrchlabi.
+
+Analysis: The German ""Freie Betten"" should be ""vacancies"" not ""Free beds"" - in tourism context, this is about room availability, not literal beds. The phrase ""an allen Winterterminen"" should be ""throughout the winter"" not ""at all winter terms"" - the target is more natural. The structure ""bietet immer stets auch"" should be ""is still offering"" not ""are always available"" - the emphasis is on the agency's continued service. The place name should be ""Vrchlabí"" with accent marks preserved
+
+Corrected translation: The Vrchlabí travel agency Ingtours is still offering vacancies throughout the winter."	error_correction
+"Für Roldán ""ist es nötig"", nach dem Angriff auf die Küste über die ""Front am Gebirge"" zu sprechen, soweit der Diskurs von Ildefons Cerda, der über die grünen Äpfel, nicht ausgetragen worden ist."	"Initial translation: For Roldán, it is necessary to speak of the attack on the coast after the 'front in the mountains' has been fought out, as far as the debate of Ildefonso Cerda, the green apple, is concerned.
+
+Analysis: The German ""nach dem Angriff auf die Küste über die 'Front am Gebirge' zu sprechen"" should be ""after approaching the coastline becomes 'necessary' to discuss about 'the mountain front'"" - the model misunderstood the temporal and causal relationships. The phrase ""der über die grünen Äpfel"" should be ""that of green apples"" referring to Cerda's speech topic, not describing Cerda himself as ""the green apple
+
+Corrected translation: For Roland, after approaching the coastline becomes ""necessary"" to discuss about ""the mountain front,"" whenever Ildefons Cerda's speech, that of green apples has not been carried out."	error_correction
+Wir werden den Inhalt und die tatsächliche Relevanz dieses Dokuments aufmerksam prüfen.	"Initial translation: We will very closely follow the content and effective scope of this document.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: We will very closely follow the content and effective scope of this document."	clean_translation
+Ich begrüße daher, dass wir in diesem Parlament fraktionsübergreifend einen Entschließungsantrag erarbeitet haben, der zum Ziel hat, diesen Missstand zu beheben.	"Initial translation: I do, however, welcome the fact that here in this House we have come up with a cross-party motion for a resolution aimed at resolving this deplorable situation.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I do, however, welcome the fact that here in this House we have come up with a cross-party motion for a resolution aimed at resolving this deplorable situation."	clean_translation
+"Von hier, dem Busparkplatz neben dem Bahnhof Puorta Nuova, starten an diesem Abend um 23.45 Uhr vier Busse, ""destinazione Monaco, festa della birra"", Ankunft voraussichtlich 6.30 Uhr."	"Initial translation: From here, the bus park beside Porta Nuova station, four buses are leaving at 11.45 p.m. tonight for Monaco, for the beer festival, arrival expected at 6.30 a.m.
+
+Analysis: The station name ""Puorta Nuova"" was changed to ""Porta Nuova"" - while this might be a correction, proper names should typically remain as given. The phrase ""Busparkplatz"" should be ""parking lot for buses"" not ""bus park"" for more natural English. The Italian phrase ""destinazione Monaco, festa della birra"" should be kept in Italian with backticks as in the target, not translated to English. The word ""voraussichtlich"" should be ""Estimated time of arrival: 6:30 AM"" not ""arrival expected"" for more formal phrasing
+
+Corrected translation: From here, a parking lot for buses next to the railroad station Puorta Nuova, four buses will depart at 11:45 tonight, `destinazione Monaco, festa della birra.` Estimated time of arrival: 6:30 AM."	error_correction
+Der Nicaraguaner Sergio Ramírez stellte auch eine entzückende Erzählung vor, die er 'Lob der Erfindung' nannte, und in der der Finger in der Wunde zwar nicht erwähnt, aber entdeckt wird.	"Initial translation: Sergio Ramírez, the Nicaraguan, also gave a charming story, which he called 'The Praise of Invention', in which the finger is not mentioned but is discovered.
+
+Analysis: The German should be ""also exhibited a delightful narration"" not ""also gave a charming story
+
+Corrected translation: The Nicaraguan Sergio Ramirez also exhibited a delightful narration that titled Praise of the invention, where the finger on the sore isn't named but is discovered."	error_correction
+Zur Klarstellung, hält es die Kommission für denkbar, dass die Europäische Union dem Beitritt Kubas zum Abkommen von Cotonou zustimmen wird, solange die politischen Gefangenen, gegen die jetzt die Verurteilungen ausgesprochen wurden, nicht freigelassen sind?	"Initial translation: By way of clarification, does the Commission consider it conceivable that the European Union will allow Cuba to accede to the Cotonou Agreement as long as the political detainees now sentenced remain in detention?
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: By way of clarification, does the Commission consider it conceivable that the European Union will allow Cuba to accede to the Cotonou Agreement as long as the political detainees now sentenced remain in detention?"	clean_translation
+'Für mich wäre so eine Wohngemeinschaft aber nichts', meint sie mit einem Augenzwinkern.	"Initial translation: But, she says, 'for me, a shared house is not an option'.
+
+Analysis: The German ""mit einem Augenzwinkern"" (with a wink) is completely omitted, which removes the playful tone of the statement. The phrase ""so eine Wohngemeinschaft"" should be ""this type of residential community"" not ""a shared house"" - the target uses more formal terminology. The word order ""However"" at the beginning is more natural than ""But"" for the target's formal tone. The verb ""commented"" is more appropriate than ""says"" for this context
+
+Corrected translation: 'However, this type of residential community would not be for me,' she commented with a wink."	error_correction
+Die wichtigste Lehre aus Cancún besteht darin, dass der 'Südblock' erstarkt ist.	"Initial translation: The main lesson of Cancún is linked to the rising power of the Southern 'bloc'.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The main lesson of Cancún is linked to the rising power of the Southern 'bloc'."	clean_translation
+Die EU begrüßt diese Ankündigungen und hofft, dass beide umgesetzt werden.	"Initial translation: The EU welcomes these announcements and hopes that both undertakings will be put into practice.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The EU welcomes these announcements and hopes that both undertakings will be put into practice."	clean_translation
+Dies ist ein Land mit einer großen europäischen Tradition, das uns ein wertvoller Partner ist und ein Leuchtturm der Freiheit sein kann in einer sehr gefährlichen Region.	"Initial translation: Georgia is a country with a great European tradition. It is our valued partner and it can be a beacon of freedom in an extremely dangerous region.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Georgia is a country with a great European tradition. It is our valued partner and it can be a beacon of freedom in an extremely dangerous region."	clean_translation
+Ich bin dagegen, Normen auf den Grundsatz des kleinsten gemeinsamen Nenners auszurichten.	"Initial translation: I am against standards being based on the principle of the lowest common denominator.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I am against standards being based on the principle of the lowest common denominator."	clean_translation
+Hier in einem Schwebezustand gewinnen die Kosmonauten Routine für die Arbeit im offenen Weltraum.	"Initial translation: Here in a state of suspension, the cosmonauts are gaining routine for working in open space.
+
+Analysis: The German ""Schwebezustand"" should be ""zero-gravity conditions"" not ""state of suspension"" - the former is the proper term for space conditions. The phrase ""gewinnen die Kosmonauten Routine"" should be ""cosmonauts practice skills"" not ""are gaining routine"" - this is about skill practice, not developing habits. The phrase ""für die Arbeit im offenen Weltraum"" should be ""of working in open space"" not ""for working in open space"" to match the target construction
+
+Corrected translation: Here, cosmonauts practice skills of working in open space in zero-gravity conditions."	error_correction
+Dafür sollten die einzelnen Mitgliedstaaten zuständig sein, wie es das Subsidiaritätsprinzip vorsieht.	"Initial translation: That should be the responsibility of each Member State – it is a question of subsidiarity.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: That should be the responsibility of each Member State – it is a question of subsidiarity."	clean_translation
+Aus diesen Gründen, und um eines besseren Straßensystems in Europa willen, habe ich für die Änderung der Richtlinie gestimmt.	"Initial translation: For these reasons, and for the sake of a better road system in Europe, I voted in favour.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: For these reasons, and for the sake of a better road system in Europe, I voted in favour."	clean_translation
+Sichtlich verunsichert und verlegen verlas Söllner eine Erklärung, in der er vor rumäniendeutschen Schriftstellerkollegen, u.a. Richard Wagner, William Totok, Franz Hodjak, und Helmuth Frauendorfer, seine Mitarbeit als IM für den rumänischen Geheimdienst Securitate eingestand.	"Initial translation: Söllner read out a statement in which he admitted to working as an informer for the Romanian secret service, the Securitate, among other writers, including Richard Wagner, William Totok, Franz Hodjak and Helmuth Frauendorfer.
+
+Analysis: The German ""Sichtlich verunsichert und verlegen"" meaning ""Clearly unsettled and embarrassed"" was completely omitted from the translation. The phrase ""vor rumäniendeutschen Schriftstellerkollegen"" should be ""before Romano-German writer colleagues"" not just ""among other writers"" - the model lost the specific ethnic/cultural designation and the formal ""before"" relationship. The word ""IM"" (informant/informer) was translated as ""informer"" which is acceptable, but the formal context was lost
+
+Corrected translation: Clearly unsettled and embarrassed, Söllner read out a statement, in which he admitted before Romano-German writer colleagues, i.e. Richard Wagner, William Totok, Franz Hodjak and Helmuth Frauendorfer, his participation as an IM for the Romanian secret service, Securitate."	error_correction
+Es war ein rotes Kleid mit fliegendem Rock und einem drapierten Oberteil mit einem Dekolleté, das seinem Namen Ehre macht.	"Initial translation: It was a red dress with a flying skirt and a draped top with a décolleté that did justice to its name.
+
+Analysis: The German ""fliegendem Rock"" should be ""frilly skirt"" not ""flying skirt"" - this is about ruffled/frilly fabric, not airborne movement. The phrase ""drapierten Oberteil"" should be ""draped 'corsage'"" not ""draped top"" - the target uses specific fashion terminology. The phrase ""einem Dekolleté, das seinem Namen Ehre macht"" should be ""a strapless neckline"" not ""a décolleté that did justice to its name"" - the target simplifies and specifies the neckline type. The model was too literal with fashion terminology instead of using appropriate English equivalents
+
+Corrected translation: It was a red dress, with a frilly skirt, draped ""corsage"" and a strapless neckline."	error_correction
+Auch bei der Rahmenrichtlinie bin ich bereits von den verschiedenen Notarkammern bedrängt worden. Ziel des Kommissionsvorschlags ist auch der Schutz des Verbrauchers vor einem übereilten Handeln bei Vertragsabschlüssen im Fernabsatz.	"Initial translation: The Commission proposal also seeks to protect the consumer against entering too hastily into agreements concluded by distance marketing.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The Commission proposal also seeks to protect the consumer against entering too hastily into agreements concluded by distance marketing."	clean_translation
+Leider ist dies nicht möglich gewesen, und deshalb verfasse ich ja auch den Bericht über die Lenkzeiten für LKW-Fahrer, weil die Kommission gezwungen war, den legislativen Weg einzuschlagen.	"Initial translation: Unfortunately, this has not happened and that is why I am producing a report on lorry drivers' hours because the Commission was forced to resort to the legislative route.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Unfortunately, this has not happened and that is why I am producing a report on lorry drivers' hours because the Commission was forced to resort to the legislative route."	clean_translation
+Der gesamte Prozeß muß natürlich den Boden für vermehrte unternehmerische Initiativen bereiten. In diesem Zusammenhang ist besonderes Gewicht auf die Unterstützung der kleinen und mittleren Unternehmen zu legen, die ein starkes Entwicklungs-, Fortschritts- und Beschäftigungspotential bieten.	"Initial translation: Obviously, this whole process needs to result in renewal within the business sector, and we especially stress the role of small and medium-sized enterprises as an engine for development, progress and job creation.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Obviously, this whole process needs to result in renewal within the business sector, and we especially stress the role of small and medium-sized enterprises as an engine for development, progress and job creation."	clean_translation
+Die enormen finanziellen Belohnungen motivieren die Leute, ihren Körper mit unnatürlichen Maßnahmen zu traktieren, um zu gewinnen.	"Initial translation: The huge financial rewards motivate people to do unnatural things to their bodies in order to win.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The huge financial rewards motivate people to do unnatural things to their bodies in order to win."	clean_translation
+"""Es gab erhebliche Überschreitungen"", sagt King, der sich selbst mal vor Ort über die Lage kundig machte."	"Initial translation: King says that there have been'significant overruns'.
+
+Analysis: The German ""Es gab erhebliche Überschreitungen"" was translated as ""significant overruns"" while the reference uses ""considerable infringements"" - both could be correct depending on context (budget overruns vs rule violations). However, the model completely omitted the second part of the sentence ""der sich selbst mal vor Ort über die Lage kundig machte"" (who had taken a look on-site to see what was going on) - this is significant contextual information about King's personal investigation that was entirely lost. The omission removes important credibility information about King's firsthand knowledge
+
+Corrected translation: ""There were considerable infringements,"" said King, who had taken a look on-site to see what was going on."	error_correction
+Dann per Direktabnahme, die Torwart Roberto mit dem Knie parierte (35.).	"Initial translation: Then, by direct free kick, Roberto saved with his knee (35).
+
+Analysis: The German ""Direktabnahme"" should be ""shot"" not ""direct free kick"" - this is a lexical error where the model confused different soccer terms. The phrase ""die Torwart Roberto mit dem Knie parierte"" should be ""which the goalie parried with his knee"" not ""Roberto saved with his knee"" - this is a semantic error where the model made Roberto the subject when he should be identified as the goalkeeper. The German indicates the goalkeeper Roberto, not just Roberto as a player. The model also omitted ""minute"" from the time reference
+
+Corrected translation: Then with a shot which the goalie parried with his knee in the 35th minute."	error_correction
+Ich hoffe, dass sich im Parlament eine eindeutige Mehrheit findet, die solchen gefährlichen Utopien - die Arbeitslosigkeit und Armut fördern und die Wettbewerbsfähigkeit der europäischen Wirtschaft in Frage stellen - eine Absage erteilt.	"Initial translation: I hope that a clear majority will emerge in Parliament to quash these dangerously utopian ideas, which would merely increase joblessness and poverty and put Europe's economic competitiveness at risk.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I hope that a clear majority will emerge in Parliament to quash these dangerously utopian ideas, which would merely increase joblessness and poverty and put Europe's economic competitiveness at risk."	clean_translation
+Alle in der Union gefertigten Neufahrzeuge werden die technischen Vorschriften und Maßnahmen erfüllen müssen, mit denen ihre Umweltschädlichkeit verringert, ihr Lärmpegel gesenkt und die Verkehrssicherheit erhöht wird.	"Initial translation: All new vehicles manufactured in the Union will be subject to compliance with the technical requirements and measures which will reduce their environmental impact, decrease associated noise pollution and increase their road safety.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: All new vehicles manufactured in the Union will be subject to compliance with the technical requirements and measures which will reduce their environmental impact, decrease associated noise pollution and increase their road safety."	clean_translation
+"Zur Begründung schreibe das Amt nun: ""Inzwischen hat sich die Aufnahmekapazität für Familien mit minderjährigen Kindern in Italien wesentlich erhöht""."	"Initial translation: The Commission now says: 'Since then, the capacity for family reception in Italy has increased significantly'.
+
+Analysis: The model changed ""das Amt"" (the office) to ""the Commission"" which is less accurate. The phrase ""Zur Begründung schreibe"" means ""as a means of justification, writes"" not just ""says
+
+Corrected translation: As a means of justification, the office writes: ""By now, the intake capacity for families with children who are minors has significantly increased in Italy."""	error_correction
+„Wir können bei Operationen dabei sein, wo wir helfen, Blut abzutupfen oder die Instrumente für Dr. Bwelle halten“, erklärt O'Malley.	"Initial translation: ‘We can be there for operations, where we can help to stop the blood or hold the instruments for Dr Bwelle’, says O’Malley.
+
+Analysis: The German ""dabei sein"" should be ""scrub in"" not ""be there for"" - this is a lexical error where the model chose a less technical medical term. The phrase ""Blut abzutupfen"" should be ""blot blood away"" not ""stop the blood"" - this is a semantic error where the model changed the action from blotting/dabbing to stopping. The German ""Instrumente"" should be ""tools"" not ""instruments"" - this is a lexical error where the model chose a more formal term. The model also omitted the past tense aspect ""We've been able to"" and changed the quote structure
+
+Corrected translation: ""We've been able to scrub in on surgeries where we help blot blood away or hold tools for Dr. Bwelle,"" O'Malley said."	error_correction
+Ein Traumwetter hatte die Tennisabteilung der Sportfreunde Rohrdorf zum Turnier der örtlichen Vereine und Freunde erhalten.	"Initial translation: A dream weather had been forecast for the tennis section of Sportfreunde Rohrdorf for the local club tournament.
+
+Analysis: The German ""hatte...erhalten"" means ""enjoyed"" not ""had been forecast"" - the model completely changed the meaning from experiencing good weather to predicting it. The phrase ""Ein Traumwetter"" should be ""perfect weather"" not ""A dream weather"" - grammatical issue with article and word choice. The phrase ""Tennisabteilung"" should be ""tennis division"" not ""tennis section"" - different organizational terminology. The target includes explanation ""(Rohrdorf Sports Fans)"" which is omitted. The phrase ""zum Turnier der örtlichen Vereine und Freunde"" should be ""for the tournament for local clubs and enthusiasts"" not ""for the local club tournament"" - the model simplifies the description
+
+Corrected translation: The tennis division of the Sportfreunde Rohrdorf (Rohrdorf Sports Fans) enjoyed perfect weather for the tournament for local clubs and enthusiasts."	error_correction
+Perkovic bestritt die wissentliche Einnahme und wurde sechs Monate gesperrt.	"Initial translation: Perkovic denied the intentional income and was suspended for six months.
+
+Analysis: The German ""wissentliche Einnahme"" means ""knowingly taken the drug"" not ""intentional income"" - ""Einnahme"" in this context means taking/ingestion of a substance, not financial income. The model completely misunderstood the context which is clearly about doping/drug testing. The word ""bestritt"" means ""said that she had not"" (a specific denial structure) not just ""denied"". The phrase ""gesperrt"" in sports context means ""banned"" not ""suspended""
+
+Corrected translation: Perkovic said that she had not knowingly taken the drug, and was banned for six months."	error_correction
+Zum anderen sollte aber auch die Frist, in der der Rat oder ein einzelner Mitgliedstaat der Kommission zu antworten hat, ebenfalls verkürzt werden.	"Initial translation: Secondly, the deadline for a response by the Council or an individual Member State to the Commission should also be shortened.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Secondly, the deadline for a response by the Council or an individual Member State to the Commission should also be shortened."	clean_translation
+Die übrige Welt hat auf die Tsunami-Katastrophe mit überaus großer Spendenbereitschaft reagiert, sei es auf privater oder auch auf institutioneller und auf Regierungsebene.	"Initial translation: The rest of the world responded to the tsunami disaster by making extremely generous donations, whether on an individual, governmental or institutional basis.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The rest of the world responded to the tsunami disaster by making extremely generous donations, whether on an individual, governmental or institutional basis."	clean_translation
+Die Hypo Real Estate müsse nur den Teil verzinsen, den sie auch in Anspruch nehme.	"Initial translation: Hypo Real Estate would only have to pay interest on the part it also takes.
+
+Analysis: The model missed translating ""in Anspruch nehme"" as ""ends up using"" instead of just ""takes
+
+Corrected translation: Hypo Real Estate was only required to pay interest on the sum it ends up using, they said."	error_correction
+Der Bericht, dessen zweite Lesung ich verteidige, bezieht sich in der Tat auf die Koordinierung der Hilfe für die beitrittswilligen Länder.	"Initial translation: This report of mine which is now at second reading discusses the coordination of pre-accession aid for enlargement.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: This report of mine which is now at second reading discusses the coordination of pre-accession aid for enlargement."	clean_translation
+"Typisches Beispiel: Beim engen Überholen oder Vorbeifahren an entgegenkommenden Autos ""streift"" man an manchen Stellen den anderen Wagen nur leicht, in anderen, nahezu identischen Situation kommt man aber ins Schleudern und dreht wilde Pirouetten."	"Initial translation: A typical example: when overtaking or passing close to oncoming vehicles, one may 'touch' the other car lightly in some places, but in other, almost identical situations, one may spin out of control.
+
+Analysis: The German sentence structure has two distinct parts, but the model omits the key second sentence. The phrase ""an manchen Stellen den anderen Wagen nur leicht"" should be ""you sometimes lightly touch the other car"" not ""touch the other car lightly in some places"" - ""Stellen"" refers to occasions, not physical locations. The second part ""in anderen, nahezu identischen Situation kommt man aber ins Schleudern und dreht wilde Pirouetten"" should be ""Yet sometimes in nearly identical situation your car ends up in wild pirouettes"" - the model captured this but lost the structural separation and the ""wild pirouettes"" reference. The model also misses that this describes vehicle dynamics, not just contact
+
+Corrected translation: Typically, when overtaking or passing cars tightly in common traffic, you sometimes lightly touch the other car. Yet sometimes in nearly identical situation your car ends up in wild pirouettes."	error_correction
+Ich teile diese Ansicht und glaube, dass die EU ihre wirtschaftspolitische Steuerung weiter stärken muss, um zu stabilisieren - natürlich - aber auch, um nachhaltiges Wachstum zu fördern.	"Initial translation: I share this point of view and feel that the EU must continue to strengthen its economic governance, in order, of course, to stabilise, but also to encourage sustainable growth.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I share this point of view and feel that the EU must continue to strengthen its economic governance, in order, of course, to stabilise, but also to encourage sustainable growth."	clean_translation
+Ich denke, daß wir der Tatsache Aufmerksamkeit schenken sollten, daß die Europäische Union solch ein Embargo nie gebilligt, sondern sich für das Gespräch und Überzeugungsarbeit ausgesprochen hat, um einen Wandel in Europa zu begünstigen.	"Initial translation: I think that it is worthwhile drawing attention to the fact that the European Union never endorsed such a boycott, preferring discussion and persuasion as a means of trying to seek change within Europe.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I think that it is worthwhile drawing attention to the fact that the European Union never endorsed such a boycott, preferring discussion and persuasion as a means of trying to seek change within Europe."	clean_translation
+Es sollte als Klammer fungieren, die alle möglichen Bereiche der Zusammenarbeit unter einen Hut bringt.	"Initial translation: It should work as an umbrella, covering all possible fields of cooperation.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: It should work as an umbrella, covering all possible fields of cooperation."	clean_translation
+Gewiss muss die Politik der Europäischen Union eine Politik der Friedensförderung sein, aber mehr noch und vor allem eine Politik der Demokratieförderung.	"Initial translation: The European Union' s policy must, of course, be a policy to promote peace, but, most importantly and primarily, it must be a policy to promote democracy.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The European Union' s policy must, of course, be a policy to promote peace, but, most importantly and primarily, it must be a policy to promote democracy."	clean_translation
+Diesem Zentrum sollte man eine große und wichtige Aufgabe zukommen lassen.	"Initial translation: A great and important task should be assigned to this centre.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: A great and important task should be assigned to this centre."	clean_translation
+Kurz vor Torschluss am Montag waren es noch 9380 gewesen.	"Initial translation: Just before the final whistle on Monday, there were still 9380.
+
+Analysis: The German ""Torschluss"" should be ""closing of the gate"" not ""final whistle"" - while both suggest deadlines, ""Torschluss"" literally means gate closure and is used metaphorically for deadline, whereas ""final whistle"" is specifically sports terminology. The phrase ""waren es noch"" should be ""the number was"" not ""there were still"" - the target emphasizes the specific count more formally
+
+Corrected translation: Shortly before the closing of the gate on Monday the number was 9,380."	error_correction
+Aber das Zeichen vom Coach konnte Kimmich auch so deuten.	"Initial translation: But the coach's sign could also be interpreted as a sign of Kimmich.
+
+Analysis: The German sentence structure ""konnte Kimmich auch so deuten"" should be ""Kimmich could also interpret...as follows"" not ""could also be interpreted as a sign of Kimmich"" - the model completely changed who is doing the interpreting and what is being interpreted. The phrase ""das Zeichen vom Coach"" should be ""the signal from the coach"" not ""the coach's sign"" - ""signal"" is more specific than ""sign
+
+Corrected translation: But Kimmich could also interpret the signal from the coach as follows."	error_correction
+Daß er darin die Ursache für die organisierte Kriminalität und für gesellschaftliche Probleme sieht, ist wirklich empörend.	"Initial translation: The fact that he quotes this as a cause of organised crime and social problems is truly appalling.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: The fact that he quotes this as a cause of organised crime and social problems is truly appalling."	clean_translation
+"Er habe ihn in allen für ihn damals diffizilen Punkten ""herausgehauen"", so Markel."	"Initial translation: He has 'come through' in all the difficult areas for him, said Mr Markel.
+
+Analysis: The German ""herausgehauen"" should be ""boxed him out"" not ""come through"" - completely different meaning involving aggressive protection vs personal achievement. The phrase ""in allen für ihn damals diffizilen Punkten"" should be ""in all points which were dangerous for him at the time"" not ""in all the difficult areas for him"" - ""dangerous"" is stronger than ""difficult"" and the temporal ""at the time"" is more precise. The name should be ""Markel"" not ""Mr Markel"" according to the target
+
+Corrected translation: He ""boxed him out"" in all points which were dangerous for him at the time, said Markel."	error_correction
+Kinder hocken an ihren Köpfen, registrieren das gefälschte Blut und die stillen Körper und flüstern einander zu.	"Initial translation: Children huddle around their heads, registering the falsified blood and the silent bodies and whispering to each other.
+
+Analysis: The German ""hocken an"" means ""crouch by"" not ""huddle around"" - it's about positioning, not grouping. The phrase ""gefälschte Blut"" should be ""fake blood"" not ""falsified blood"" - it's about special effects, not deception. The verb ""registrieren"" was correctly translated as noting/taking in, but ""take in"" is more natural than ""registering"" in this context. The model captured the scene but could improve precision and naturalness
+
+Corrected translation: Children crouch by their heads, take in the fake blood and still bodies, and whisper to each other."	error_correction
+Es ist Aufgabe der politisch Verantwortlichen der verschiedenen Mitgliedsstaaten, unabhängige, in diese Richtung gehende Aktionen zu unterstützen.	"Initial translation: Political leaders in the various Member States have a responsibility to encourage independent approaches along these lines.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Political leaders in the various Member States have a responsibility to encourage independent approaches along these lines."	clean_translation
+Ich bin der festen Überzeugung, dass es uns mit Initiativen wie dem EIT gelingen wird, die Herausforderungen einer wissensbasierten globalen Wirtschaft zu meistern, indem wir die ehrgeizigen Ziele der Lissabon-Strategie umsetzen.	"Initial translation: It is my belief that through such initiatives as the EIT we can meet the challenges of a knowledge-based global economy in realising the ambitious aims of the Lisbon Strategy.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: It is my belief that through such initiatives as the EIT we can meet the challenges of a knowledge-based global economy in realising the ambitious aims of the Lisbon Strategy."	clean_translation
+Mit 60 Jahren als Sänger ist Hubert Wermters Geschichte beim Männergesangverein Cäcilia fast doppelt so lange wie die des Herbsfestes, in dessen Rahmen er feierlich geehrt wurde.	"Initial translation: Hubert Wermters' story with the men's choir Cäcilia is almost twice as long as that of the herb festival, in which he was honoured with great ceremony.
+
+Analysis: The German ""Herbsfestes"" appears to be ""Herbstfestes"" (Autumn Festival) but was translated as ""herb festival"" - this is likely a misreading or OCR error where ""Herbst"" (autumn) was seen as ""Herb"" (herb). The phrase ""Mit 60 Jahren als Sänger"" (Having been a singer for 60 years) was omitted from the model's translation, losing important context about his long career. The reference correctly identifies this as ""Autumn Festival"" and includes the 60-year detail. The possessive ""Wermters'"" should be ""Wermter's"" for proper English grammar
+
+Corrected translation: Having been a singer for 60 years, Hubert Wermter's story with the Cäcilia Male Choral Society is almost twice as long as that of the Autumn Festival, during which he was ceremonially honoured."	error_correction
+Ja, das würde ich tun, wenn er mir unsympathisch ist oder ich ihm eins auswischen will.	"Initial translation: Yes, I would do that if I do not like him or if I want to give him a slap.
+
+Analysis: The German idiom ""ihm eins auswischen"" means ""to get back at someone"" or ""to get one over on someone"", but was literally translated as ""give him a slap"" which changes the meaning from psychological revenge to physical violence. The phrase ""wenn er mir unsympathisch ist"" should be ""if I didn't like somebody"" not ""if I do not like him"" - the reference uses the more natural indefinite pronoun. The overall tone is more awkward and direct compared to the natural English reference
+
+Corrected translation: I would do it if I didn't like somebody, or they made me want to do it."	error_correction
+Vorgesehen ist eine Prämie von 1000 Euro für die bestandene Meisterprüfung und 2500 Euro, wenn sich Absolventen innerhalb von zehn Jahren nach der Meisterausbildung selbstständig machen.	"Initial translation: The premium is EUR 1000 for the master's degree and EUR 2500 if graduates set up their own business within ten years of graduating.
+
+Analysis: The German ""Prämie"" means ""prize/bonus"" but was translated as ""premium"" which has different connotations (insurance/subscription fee vs reward). The phrase ""Meisterprüfung"" means ""master craftsman examination"" but was simplified to ""master's degree"" - this loses the specific vocational/trade context of the German system. Similarly ""Meisterausbildung"" (master craftsman training) became just ""graduating"" losing the specialized training context. The reference preserves the specific craftsman terminology which is important for understanding the German vocational system
+
+Corrected translation: A prize of 1000 euros is envisaged for passing the master craftsman examination, and 2500 euros if graduates become self-employed within ten years of their master craftsman training."	error_correction
+Dettori sprüht Champagner nach einem Double bei Newmarket, der ihm 3.000ten Gewinn bringt	"Initial translation: Dettori is celebrating a double at Newmarket, his 3000th winner
+
+Analysis: The German ""sprüht Champagner"" should be ""sprays champagne"" not omitted - this specific action is part of the celebration description. The phrase ""der ihm 3.000ten Gewinn bringt"" should be ""takes him to 3,000 wins"" not ""his 3000th winner"" - the model missed that this double at Newmarket specifically brings him to the 3,000 milestone. The model also changed ""sprüht"" (sprays) to generic ""celebrating"" losing the specific champagne-spraying detail
+
+Corrected translation: Dettori sprays champagne after a double at Newmarket takes him to 3,000 wins"	error_correction
+Mancher träumt in der Midlife-Crisis von einer neuen Karriere, andere wagen sich einfach mal aufs glatte Eis ihrer vagen Sehnsüchte.	"Initial translation: Some dream of a new career in midlife crisis, others just go for a ride on the smooth ice of their vague desires.
+
+Analysis: The phrase ""in der Midlife-Crisis"" should be ""to escape a mid-life crisis"" not ""in midlife crisis"" - it's about escaping the crisis, not happening during it. The German ""wagen sich einfach mal aufs glatte Eis"" is an idiom meaning ""venture onto thin ice"" or ""test their vague aspirations"" not literally ""go for a ride on smooth ice"". The model missed the metaphorical meaning about taking risks. The model also added ""of their vague desires"" which doesn't appear in the German source
+
+Corrected translation: Many dream of a new career to escape a mid-life crisis; others come to test their vague aspirations against the cold facts."	error_correction
+Das ist eine von jenen Katastrophenmeldungen, auf die wir Menschen so gerne anspringen.	"Initial translation: This is one of those disasters that we humans are so keen to jump on.
+
+Analysis: The German ""Katastrophenmeldungen"" should be ""startler"" not ""disasters"" - this is a lexical error where the model was too literal. The phrase ""anspringen"" should be ""latch on to"" not ""jump on"" - this is a lexical error where the model chose a more literal translation. The German ""auf die wir Menschen so gerne anspringen"" carries the meaning of being attracted to sensational news, not literally jumping on disasters. The model also missed the nuance that these are news reports about disasters, not actual disasters
+
+Corrected translation: It is just another startler, which we like to latch on to."	error_correction
+Ich kann der Logik hinter der Arbeit des Europäischen Parlaments in Bezug auf den Klimawandel nicht folgen.	"Initial translation: I cannot follow the logic behind the work of the European Parliament on climate change.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I cannot follow the logic behind the work of the European Parliament on climate change."	clean_translation
+Einheitliche und vereinfachte Verfahrensabläufe und die Entlastung der Behörden sowie die Auslagerung von Verfahrensschritten sind Teil dieser Richtlinie.	"Initial translation: Uniform and simplified procedures, a relieving of the burden on the authorities as well as the removal of procedural steps are all part of this directive.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: Uniform and simplified procedures, a relieving of the burden on the authorities as well as the removal of procedural steps are all part of this directive."	clean_translation
+"""Er ist fast verblutet, war ohnmächtig, hat sich dann raus geschleppt auf die Straße - das hat er uns so erzählt letzte Woche"", zitiert die ""WiWo"" SAP-Mitbegründer Hasso Plattner."	"Initial translation: He was almost dead, he was unconscious, he dragged himself out onto the street - that is what he told us last week, according to the WiWo.
+
+Analysis: The German ""fast verblutet"" means ""almost bled to death"" not just ""almost dead"" - the specific cause (bleeding) was omitted. The phrase ""zitiert die 'WiWo' SAP-Mitbegründer Hasso Plattner"" should be ""the 'WiWo' quoted SAP co-founder Hasso Plattner"" - the model restructured this as ""according to the WiWo"" which loses the specific attribution to Hasso Plattner. The model simplified the medical specificity and altered the quotation attribution structure
+
+Corrected translation: ""He almost bled to death, he was unconscious, then he dragged himself out onto the road - so he told us last week,"" the ""WiWo"" quoted SAP co-founder Hasso Plattner."	error_correction
+Und wem es nur ums Raten geht und nicht um Siegpunkte, der kann auch leicht eine Version für zwei dazuerfinden.	"Initial translation: And if anyone is only interested in scoring points and not in paying, they can easily find a version for two.
+
+Analysis: The model completely misunderstood ""ums Raten"" which means ""about guessing"" not ""scoring points,"" and ""nicht um Siegpunkte"" means ""not about winning"" not ""not paying
+
+Corrected translation: And if it's all about guessing and not about winning, it's easy to play a version for two."	error_correction
+Für mich ist dies ganz klar der Kurs, den wir unter den gegebenen wirtschaftlichen Umständen in der Europäischen Union einschlagen müssen.	"Initial translation: For me, this is sure that this is the line to be taken under the present economic conditions in the European Union.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: For me, this is sure that this is the line to be taken under the present economic conditions in the European Union."	clean_translation
+Auch Ihnen, Frau Präsidentin, meinen Glückwunsch zu dieser wichtigen Position.	"Initial translation: I would also like to congratulate you, Madam President, on the occasion of your assuming your important role.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: I would also like to congratulate you, Madam President, on the occasion of your assuming your important role."	clean_translation
+Eine Regierung, welche die Staatsverschuldung verschweigt, Wahlen und eine neue Regierung, die am gleichen Strang zieht.	"Initial translation: A government which hides the national debt, elections and a new government which is on the same wavelength.
+
+Analysis: The German ""Staatsverschuldung"" was translated as ""national debt"" when it should be ""public deficit"" in this political context. The idiomatic phrase ""am gleichen Strang zieht"" was translated as ""on the same wavelength"" but should be ""pulls up the rug"", which conveys a different meaning about revealing or exposing something rather than agreement. The model missed the political metaphor about uncovering hidden information
+
+Corrected translation: A Government which hides the public deficit, elections and a new Government that pulls up the rug."	error_correction
+Dem stehen jedoch die Haushaltskürzungen entgegen, die vor allem die Frauen im öffentlichen Dienst betreffen.	"Initial translation: In direct opposition to this concept are the budget cutbacks which affect in particular women in the civil service.
+
+Analysis: the translation accurately captures the meaning
+
+Corrected translation: In direct opposition to this concept are the budget cutbacks which affect in particular women in the civil service."	clean_translation
+Die Bahn macht mit, auch weil die Risiken des größten Infrastruktur-Einzelprojekts der Republik der Steuerzahler und nicht der Staatskonzern trägt.	"Initial translation: The railways are also involved, because the risks of the biggest infrastructure project of the public and not of the State-owned companies.
+
+Analysis: The German ""Die Bahn"" should be ""German Rail"" not ""The railways"" - this refers specifically to Deutsche Bahn, the German national railway company. The phrase ""der Steuerzahler"" should be ""the taxpayer"" not ""the public"" - this is more specific. The phrase ""der Staatskonzern trägt"" should be ""the state company"" not ""State-owned companies"" (plural vs singular). The grammar ""will be borne by"" is missing - the model doesn't show the future passive construction properly
+
+Corrected translation: German Rail is participating, also because the risks of the Republic's biggest single infrastructure project will be borne by the taxpayer and not the state company."	error_correction
+Um 19 Uhr gestaltet die biraböhmische Blasmusik aus Schömberg den großen Unterhaltungsabend.	"Initial translation: At 7 p.m. the biraböhmische Blasmusik from Schömberg will provide the entertainment.
+
+Analysis: The model completely omitted the extensive explanation that ""biraböhmische"" is ""a play on words alluding to the regions pear trees, Bohemia, and perhaps their love of beer as well!"" This explanation is crucial for understanding the wordplay. The phrase ""gestaltet...den großen Unterhaltungsabend"" should be ""provide a great evening of entertainment"" not just ""provide the entertainment"" - missing the ""great"" qualifier. The time should be ""19:00"" not ""7 p.m
+
+Corrected translation: At 19:00, the ""biraböhmische"" (a play on words alluding to the regions pear trees, Bohemia, and perhaps their love of beer as well!) wind music group from Schömberg, provide a great evening of entertainment."	error_correction
+"""Uns ist allen ein riesiger Stein vom Herzen gefallen"", sagte Schöpf, der daran mit seinem Kopfballtreffer keinen unwesentlichen Anteil hatte: ""Dabei bin ich eigentlich der schlechteste Kopfballspieler in der Mannschafft""."	"Initial translation: Schöpf, who scored with a header, said: 'We all felt a great sadness, because I am actually the worst header of the ball in the team'.
+
+Analysis: The German ""ein riesiger Stein vom Herzen gefallen"" should be ""felt a huge weight lifted off our shoulders"" not ""felt a great sadness"" - this idiom means relief, not sadness. The phrase ""keinen unwesentlichen Anteil hatte"" should be ""played no insignificant part"" not omitted - this means he played a significant role. The structure should start with the relief quote, then explain Schöpf's role. The word ""Kopfballspieler"" should be ""header"" (player who heads the ball) not ""header of the ball
+
+Corrected translation: We all felt a huge weight lifted off our shoulders, said Schöpf, whose scoring header played no insignificant part: ""And I am actually the worst header on the team."""	error_correction
